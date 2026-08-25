@@ -29,6 +29,13 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (event-tracker; personal use)"}
 # calendars you hand-picked are trusted as-is.
 BROAD_SOURCES = {"Luma", "Eventbrite", "Meetup"}
 
+# Eventbrite files each listing under a single category, so fetching only
+# "tech" drops AI/startup events filed under business or science-and-tech.
+# Override via "eventbrite_categories" in config.json. Deliberately omits
+# "design": on Eventbrite that category is craft/hobby (soap making, tote
+# bags), not UX/product design.
+EVENTBRITE_CATEGORIES = ["tech", "science-and-tech", "business"]
+
 GENERIC_TECH_KEYWORDS = [
     "tech", "startup", "startups", "founder", "founders", "venture", "vc",
     "hackathon", "hackathons", "engineer", "engineers", "engineering",
@@ -91,7 +98,10 @@ def keyword_match(haystack, keywords):
 
 
 # Nicer display labels for keywords that shouldn't just be .title()-cased.
-CATEGORY_LABELS = {"ai": "AI", "vc": "VC", "web3": "Web3"}
+CATEGORY_LABELS = {
+    "ai": "AI", "vc": "VC", "web3": "Web3",
+    "ux": "UX", "ui": "UI", "ml": "ML", "saas": "SaaS",
+}
 
 
 def category_label(keyword):
@@ -462,7 +472,7 @@ def match_eventbrite_city(city, region_hint, cities):
     return matches[0]
 
 
-def fetch_eventbrite(city, region_hint="", max_pages=3):
+def fetch_eventbrite(city, region_hint="", max_pages=3, categories=None):
     cities = get_eventbrite_cities()
     place = match_eventbrite_city(city, region_hint, cities)
     if not place:
@@ -470,80 +480,84 @@ def fetch_eventbrite(city, region_hint="", max_pages=3):
         return []
 
     events = []
-    for page in range(1, max_pages + 1):
-        url = f"https://www.eventbrite.com/d/{place['slug']}/tech/"
-        try:
-            resp = requests.get(url, params={"page": page}, headers=HEADERS, timeout=30)
-            resp.raise_for_status()
-        except Exception as e:
-            print(f"  ! skipped Eventbrite page {page}: {e}")
-            break
+    for cat in (categories or EVENTBRITE_CATEGORIES):
+        found_before = len(events)
+        for page in range(1, max_pages + 1):
+            url = f"https://www.eventbrite.com/d/{place['slug']}/{cat}/"
+            try:
+                resp = requests.get(url, params={"page": page}, headers=HEADERS, timeout=30)
+                resp.raise_for_status()
+            except Exception as e:
+                print(f"  ! skipped Eventbrite page {page}: {e}")
+                break
 
-        data = _parse_eventbrite_server_data(resp.text)
-        if data is None:
-            print("  ! Eventbrite page format changed, stopping early")
-            break
+            data = _parse_eventbrite_server_data(resp.text)
+            if data is None:
+                print("  ! Eventbrite page format changed, stopping early")
+                break
 
-        try:
-            event_block = data["search_data"]["events"]
-            results = event_block["results"]
-        except Exception as e:
-            print(f"  ! could not parse an Eventbrite page: {e}")
-            break
+            try:
+                event_block = data["search_data"]["events"]
+                results = event_block["results"]
+            except Exception as e:
+                print(f"  ! could not parse an Eventbrite page: {e}")
+                break
 
-        if not results:
-            break
+            if not results:
+                break
 
-        for h in results:
-            venue = h.get("primary_venue") or {}
-            address = venue.get("address") or {}
-            if h.get("is_online_event"):
-                location = "Online"
-            else:
-                location = ", ".join(
-                    p for p in [address.get("city"), address.get("region")] if p
-                ) or venue.get("name", "")
-
-            start_date = h.get("start_date", "")
-            start_time = h.get("start_time", "")
-            sort_date = None
-            if start_date:
-                try:
-                    sort_date = dateparser.parse(f"{start_date} {start_time}".strip())
-                except (ValueError, OverflowError, TypeError):
-                    sort_date = None
-
-            dates = ""
-            if sort_date:
-                if start_time:
-                    time_str = sort_date.strftime("%I:%M %p").lstrip("0")
-                    dates = f"{sort_date.strftime('%b %d, %Y')} · {time_str}"
+            for h in results:
+                venue = h.get("primary_venue") or {}
+                address = venue.get("address") or {}
+                if h.get("is_online_event"):
+                    location = "Online"
                 else:
-                    dates = sort_date.strftime("%b %d, %Y")
+                    location = ", ".join(
+                        p for p in [address.get("city"), address.get("region")] if p
+                    ) or venue.get("name", "")
 
-            themes = [
-                t.get("display_name", "") for t in h.get("tags", []) if t.get("display_name")
-            ]
+                start_date = h.get("start_date", "")
+                start_time = h.get("start_time", "")
+                sort_date = None
+                if start_date:
+                    try:
+                        sort_date = dateparser.parse(f"{start_date} {start_time}".strip())
+                    except (ValueError, OverflowError, TypeError):
+                        sort_date = None
 
-            events.append(
-                {
-                    "source": "Eventbrite",
-                    "title": (h.get("name") or "").strip(),
-                    "url": h.get("url", ""),
-                    "location": location,
-                    "dates": dates,
-                    "sort_date": sort_date,
-                    "state": "upcoming",
-                    "themes": themes[:4],
-                    "prize": "",
-                    "organization": "",
-                    "curated": False,
-                }
-            )
+                dates = ""
+                if sort_date:
+                    if start_time:
+                        time_str = sort_date.strftime("%I:%M %p").lstrip("0")
+                        dates = f"{sort_date.strftime('%b %d, %Y')} · {time_str}"
+                    else:
+                        dates = sort_date.strftime("%b %d, %Y")
 
-        page_count = event_block.get("pagination", {}).get("page_count", page)
-        if page >= page_count:
-            break
+                themes = [
+                    t.get("display_name", "") for t in h.get("tags", []) if t.get("display_name")
+                ]
+
+                events.append(
+                    {
+                        "source": "Eventbrite",
+                        "title": (h.get("name") or "").strip(),
+                        "url": h.get("url", ""),
+                        "location": location,
+                        "dates": dates,
+                        "sort_date": sort_date,
+                        "state": "upcoming",
+                        "themes": themes[:4],
+                        "prize": "",
+                        "organization": "",
+                        "curated": False,
+                    }
+                )
+
+            page_count = event_block.get("pagination", {}).get("page_count", page)
+            if page >= page_count:
+                break
+
+        print(f"    eventbrite/{cat}: {len(events) - found_before} events")
 
     return events
 
@@ -916,7 +930,8 @@ def main():
     events += luma_events
 
     eventbrite_events = fetch_eventbrite(
-        city, region_hint, config.get("eventbrite_max_pages", 3)
+        city, region_hint, config.get("eventbrite_max_pages", 3),
+        config.get("eventbrite_categories")
     )
     print(f"  found {len(eventbrite_events)} raw Eventbrite events")
     events += eventbrite_events

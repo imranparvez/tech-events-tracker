@@ -27,6 +27,11 @@
   "max_pages": 6,
   "luma_max_events": 80,
   "eventbrite_max_pages": 3,
+  "eventbrite_categories": [
+    "tech",
+    "science-and-tech",
+    "business"
+  ],
   "extra_luma_calendars": [
     "thestack",
     "hackersandfounders"

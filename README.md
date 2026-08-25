@@ -84,7 +84,14 @@ and copy-paste exactly.
   (default 80). Raise it if your city has a lot of events and you're missing
   ones further out; lower it to speed up the build.
 - **eventbrite_max_pages** — how many pages (20 events each) to fetch from
-  Eventbrite's "tech" category for your city (default 3, so up to 60).
+  Eventbrite for your city, *per category* (default 3, so up to 60 each).
+- **eventbrite_categories** — which Eventbrite category pages to pull
+  (default `["tech", "science-and-tech", "business"]`). Eventbrite files each
+  listing under exactly one category, so `tech` alone misses AI and startup
+  events filed under business. Duplicates across categories are removed
+  automatically. Note that Eventbrite's `design` category is craft/hobby
+  (soap making, tote bags), *not* UX/product design — adding it mostly adds
+  noise.
 - **repo_url** — shows a "Go to my GitHub repo to find events for your
   city" banner at the top of the page linking here, so people who land on
   your site can fork it for their own city. Leave it out (or empty) to hide
