@@ -1,5 +1,257 @@
 [
   {
+    "source": "Eventbrite",
+    "title": "AI & Tech Networking Event in Amsterdam  by Ascent Valley",
+    "url": "https://www.eventbrite.com/e/ai-tech-networking-event-in-amsterdam-by-ascent-valley-tickets-1991477655276",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 25, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-25 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Education office Tech+Jobs Module:SAP ERP FOR BEGINNERS BY>TECHRABOTA.BG",
+    "url": "https://www.eventbrite.com/e/ai-education-office-techjobs-modulesap-erp-for-beginners-bytechrabotabg-tickets-1991410324889",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 25, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-25 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Educators",
+      "Business & Professional",
+      "Festival or Fair",
+      "saptraining"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Product Networking Event Amsterdam: Operators Trade What Actually Worked",
+    "url": "https://www.eventbrite.com/e/product-networking-event-amsterdam-operators-trade-what-actually-worked-tickets-1998519978053",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 25, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-25 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Startup Networking Amsterdam: Founders, Investors & Talent Mixer",
+    "url": "https://www.eventbrite.com/e/startup-networking-amsterdam-founders-investors-talent-mixer-tickets-1991466708534",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 25, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-25 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Education office Tech+Jobs Module: Business Analyst BY>TECHRABOTA.BG",
+    "url": "https://www.eventbrite.com/e/ai-education-office-techjobs-module-business-analyst-bytechrabotabg-tickets-1991414210511",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Educators",
+      "Business & Professional",
+      "Festival or Fair",
+      "saptraining"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Education office Tech+Jobs Module:BI STRATEGY BY>TECHRABOTA.BG",
+    "url": "https://www.eventbrite.com/e/ai-education-office-techjobs-modulebi-strategy-bytechrabotabg-tickets-1991412855458",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Educators",
+      "Business & Professional",
+      "Festival or Fair",
+      "saptraining"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Education office Tech+Jobs Module:Business Intelligence BY-TECHRABOTA.BG",
+    "url": "https://www.eventbrite.com/e/ai-education-office-techjobs-modulebusiness-intelligence-by-techrabotabg-tickets-1991418444174",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Educators",
+      "Business & Professional",
+      "Festival or Fair",
+      "Businessintelligence"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Education office Tech+Jobs Module:Data Visualization BY-TECHRABOTA.BG",
+    "url": "https://www.eventbrite.com/e/ai-education-office-techjobs-moduledata-visualization-by-techrabotabg-tickets-1991415725041",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Educators",
+      "Business & Professional",
+      "Festival or Fair",
+      "saptraining"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Education office Tech+Jobs Module:Scrum for beginners BY-TECHRABOTA.BG",
+    "url": "https://www.eventbrite.com/e/ai-education-office-techjobs-modulescrum-for-beginners-by-techrabotabg-tickets-1991417546489",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Educators",
+      "Business & Professional",
+      "Festival or Fair",
+      "saptraining"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Job with accommodation sigle room netherlands for TECHRABOTA.BG MEMBERS",
+    "url": "https://www.eventbrite.com/e/ai-job-with-accommodation-sigle-room-netherlands-for-techrabotabg-members-tickets-1991374735440",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Career",
+      "Business & Professional",
+      "Conference",
+      "ai_jobs_netherlands"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Learn Dutch + Job with accommodation LES room netherlands TECHRABOTA.BG",
+    "url": "https://www.eventbrite.com/e/ai-learn-dutch-job-with-accommodation-les-room-netherlands-techrabotabg-tickets-1991379314135",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Career",
+      "Business & Professional",
+      "Conference",
+      "ai_jobs_netherlands"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI-TECH-FAIR Amsterdam 2026 Technology Expo (Internet ~ AdTech ~ MarTech)",
+    "url": "https://www.eventbrite.com/e/ai-tech-fair-amsterdam-2026-technology-expo-internet-adtech-martech-tickets-1987261059324",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Tradeshow, Consumer Show, or Expo",
+      "Visa"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Amsterdam Tech Startup & VC \u2013 Rooftop Networking",
+    "url": "https://www.eventbrite.co.uk/e/amsterdam-tech-startup-vc-rooftop-networking-registration-1998645863580",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Londontech"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Delflandlaan 1 1062 EA Amsterdam AI Job Market and Recruitment for the Neth",
+    "url": "https://www.eventbrite.com/e/delflandlaan-1-1062-ea-amsterdam-ai-job-market-and-recruitment-for-the-neth-tickets-1987258268978",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Career",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "delflandlaan_ai"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "The Stack Construction Tour [Invite-Only]",
     "url": "https://lu.ma/h4qejs4m",
@@ -11,6 +263,19 @@
     "prize": "",
     "organization": "The Stack",
     "curated": true
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI FOR AFRICA - Fundamental Kantoor te Huur Amsterdam Delflandlaan 1 - 1062",
+    "url": "https://www.eventbrite.nl/e/ai-for-africa-fundamental-kantoor-te-huur-amsterdam-delflandlaan-1-1062-tickets-1991583395548",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 26, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-26 09:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "",
+    "curated": false
   },
   {
     "source": "Luma",
@@ -39,6 +304,42 @@
     "curated": false
   },
   {
+    "source": "Eventbrite",
+    "title": "AI Implementation in Business | Amsterdam",
+    "url": "https://www.eventbrite.com.au/e/ai-implementation-in-business-amsterdam-tickets-1024551600417",
+    "location": "Amsterdam, NH",
+    "dates": "Aug 27, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-08-27 16:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Seminar or Talk",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Mesh Netwerk - Het veldexperiment - Post X Society x SETUP",
+    "url": "https://www.eventbrite.com/e/mesh-netwerk-het-veldexperiment-post-x-society-x-setup-tickets-1994649044988",
+    "location": "Utrecht, UT",
+    "dates": "Aug 27, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-27 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Bigtech"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
     "source": "Meetup",
     "title": "Monthly Tech Drinks & Pitching - TAG edition",
     "url": "https://www.meetup.com/techmakers/events/316169020/",
@@ -52,6 +353,114 @@
     "curated": false
   },
   {
+    "source": "Eventbrite",
+    "title": "B2B Lead Generation in AI era [Workshop]",
+    "url": "https://www.eventbrite.nl/e/b2b-lead-generation-in-ai-era-workshop-tickets-1996225218365",
+    "location": "Almere, FL",
+    "dates": "Sep 01, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-01 16:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Sales & Marketing",
+      "Business & Professional",
+      "Class, Training, or Workshop",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Talent Connect [Direction Launch]: Building the Future of Tech Talents",
+    "url": "https://www.eventbrite.nl/e/talent-connect-direction-launch-building-the-future-of-tech-talents-tickets-1987753671741",
+    "location": "Almere, FL",
+    "dates": "Sep 02, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-02 17:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Other",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Almere"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Tech & Startup Night - Amsterdam",
+    "url": "https://www.eventbrite.com/e/ai-tech-startup-night-amsterdam-tickets-1994681548206",
+    "location": "Amsterdam, NH",
+    "dates": "Sep 02, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-02 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Investor Connect: Pitch & Networking \u2014 Amsterdam",
+    "url": "https://www.eventbrite.com/e/investor-connect-pitch-networking-amsterdam-tickets-1994681558236",
+    "location": "Amsterdam, NH",
+    "dates": "Sep 02, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-02 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Startup Founders Meetup I Amsterdam",
+    "url": "https://www.eventbrite.com/e/startup-founders-meetup-i-amsterdam-tickets-1998352030718",
+    "location": "Amsterdam, NH",
+    "dates": "Sep 02, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-02 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "VC Networking & Tech Pitch I Amsterdam",
+    "url": "https://www.eventbrite.com/e/vc-networking-tech-pitch-i-amsterdam-tickets-1998352159102",
+    "location": "Amsterdam, NH",
+    "dates": "Sep 02, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-02 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Floating Tech Talk #6 XXL Edition",
     "url": "https://lu.ma/lew2qbik",
@@ -62,6 +471,24 @@
     "themes": [],
     "prize": "",
     "organization": "The AI Foundry",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Generative AI for Society and Workplace | Amsterdam",
+    "url": "https://www.eventbrite.com.au/e/generative-ai-for-society-and-workplace-amsterdam-tickets-1204448621249",
+    "location": "Amsterdam, NH",
+    "dates": "Sep 03, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-03 16:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
@@ -117,6 +544,60 @@
     "curated": false
   },
   {
+    "source": "Eventbrite",
+    "title": "AmsterdamTech Networking: Test-Drive a Partnership Before You Commit",
+    "url": "https://www.eventbrite.com/e/amsterdamtech-networking-test-drive-a-partnership-before-you-commit-tickets-1997940632214",
+    "location": "Amsterdam, NH",
+    "dates": "Sep 08, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-08 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech & Business Networking in    Amsterdam",
+    "url": "https://www.eventbrite.com/e/tech-business-networking-in-amsterdam-tickets-1997018878223",
+    "location": "Amsterdam, NH",
+    "dates": "Sep 08, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-08 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Networking Event by Startup Valley in Amsterdam",
+    "url": "https://www.eventbrite.com/e/tech-networking-event-by-startup-valley-in-amsterdam-tickets-1997962798514",
+    "location": "Amsterdam, NH",
+    "dates": "Sep 08, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-08 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Career"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Soup Talks | The Human Advantage in the Age of AI: An Insider\u2019s View | with Bob van Luijt",
     "url": "https://lu.ma/96l1f37v",
@@ -156,6 +637,150 @@
     "curated": false
   },
   {
+    "source": "Eventbrite",
+    "title": "Build an AI System That Understands Your Business [Workshop]",
+    "url": "https://www.eventbrite.nl/e/build-an-ai-system-that-understands-your-business-workshop-tickets-1996784654654",
+    "location": "Almere, FL",
+    "dates": "Sep 10, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-10 16:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Sales & Marketing",
+      "Business & Professional",
+      "Class, Training, or Workshop",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Circuit-bending Workshop w/ Fra Zedde",
+    "url": "https://www.eventbrite.co.uk/e/circuit-bending-workshop-w-fra-zedde-registration-1998488702507",
+    "location": "Amsterdam, NH",
+    "dates": "Sep 13, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-09-13 15:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Workshop"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Startup Tech & AI Networking in Amsterdam",
+    "url": "https://www.eventbrite.com/e/startup-tech-ai-networking-in-amsterdam-tickets-1997019917331",
+    "location": "Amsterdam, NH",
+    "dates": "Sep 15, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-15 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Agents for Business Professionals | Amsterdam",
+    "url": "https://www.eventbrite.com.au/e/ai-agents-for-business-professionals-amsterdam-tickets-1996530794351",
+    "location": "Amsterdam",
+    "dates": "Sep 16, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-09-16 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Seminar or Talk",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Out in Tech Amsterdam | Third Thursdays",
+    "url": "https://www.eventbrite.com/e/out-in-tech-amsterdam-third-thursdays-registration-1318589770499",
+    "location": "Amsterdam, NH",
+    "dates": "Sep 17, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-17 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Other",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Technology"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "WomenHack - Amsterdam (AI) Employer Ticket - September 23, 2026",
+    "url": "https://www.eventbrite.com/e/tickets-womenhack-amsterdam-ai-employer-ticket-september-23-2026-1980151532538",
+    "location": "Amsterdam",
+    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-23 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Sales & Marketing",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Career"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Deep Tech [Direction Launch]: Building the Future of Technology Together",
+    "url": "https://www.eventbrite.nl/e/deep-tech-direction-launch-building-the-future-of-technology-together-tickets-1996241295452",
+    "location": "Almere, FL",
+    "dates": "Sep 24, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-24 17:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Other",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Almere"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Engineering  Manager [Workshop]",
+    "url": "https://www.eventbrite.nl/e/engineering-manager-workshop-tickets-1996817359475",
+    "location": "Almere, FL",
+    "dates": "Oct 07, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-07 17:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Other",
+      "Business & Professional",
+      "Class, Training, or Workshop",
+      "Workshop"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "TechEx Amsterdam Hackathon",
     "url": "https://lu.ma/lablab-m6y3",
@@ -167,5 +792,167 @@
     "prize": "",
     "organization": "The Stack",
     "curated": true
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Cyber Security & Cloud Expo Europe 2026",
+    "url": "https://www.eventbrite.co.uk/e/cyber-security-cloud-expo-europe-2026-tickets-1761071445099",
+    "location": "Amsterdam, NH",
+    "dates": "Oct 19, 2026 \u00b7 8:30 AM",
+    "sort_date": "2026-10-19 08:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Conference",
+      "Event"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "IoT Tech Expo Europe 2026",
+    "url": "https://www.eventbrite.co.uk/e/iot-tech-expo-europe-2026-tickets-1761019088499",
+    "location": "Amsterdam, NH",
+    "dates": "Oct 19, 2026 \u00b7 8:30 AM",
+    "sort_date": "2026-10-19 08:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Science & Technology",
+      "Conference",
+      "Iot",
+      "Internetofthings"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Founder Connect [Conference]",
+    "url": "https://www.eventbrite.nl/e/tech-founder-connect-conference-tickets-1996982083168",
+    "location": "Almere, FL",
+    "dates": "Oct 23, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-10-23 15:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Other",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Almere"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Amsterdam Tech COnnect: The power of AI",
+    "url": "https://www.eventbrite.co.uk/e/amsterdam-tech-connect-the-power-of-ai-tickets-1988716542714",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 12, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-12 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Conference",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Hardwear.io Security Conference & Training, NL 2026",
+    "url": "https://www.eventbrite.nl/e/hardweario-security-conference-training-nl-2026-tickets-1985956252612",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 16, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-11-16 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Conference",
+      "securitytraining"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Leaders 19 november 2026",
+    "url": "https://www.eventbrite.nl/e/tech-leaders-19-november-2026-tickets-1990873887390",
+    "location": "Utrecht, UT",
+    "dates": "Nov 19, 2026 \u00b7 1:30 PM",
+    "sort_date": "2026-11-19 13:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Conference",
+      "Technology"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Almere TechConnect. Friday night community drinks #11. All in yellow party",
+    "url": "https://www.eventbrite.nl/e/almere-techconnect-friday-night-community-drinks-11-all-in-yellow-party-tickets-1987751934545",
+    "location": "Almere, FL",
+    "dates": "Nov 27, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-27 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "friday_night_drinks"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Growth Connect",
+    "url": "https://www.eventbrite.nl/e/tech-growth-connect-tickets-1997136149986",
+    "location": "Almere, FL",
+    "dates": "Mar 26, 2027 \u00b7 3:00 PM",
+    "sort_date": "2027-03-26 15:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Other",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Almere"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Amsterdam Tech Job Fair (Amsterdam Tech Banenbeurs 2027)",
+    "url": "https://www.eventbrite.co.uk/e/amsterdam-tech-job-fair-amsterdam-tech-banenbeurs-2027-tickets-1848222385909",
+    "location": "Amsterdam",
+    "dates": "Jun 24, 2027 \u00b7 6:00 PM",
+    "sort_date": "2027-06-24 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Career",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Employment"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
   }
 ]
