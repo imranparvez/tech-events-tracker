@@ -46,12 +46,17 @@ EVENTBRITE_CATEGORIES = ["tech", "science-and-tech", "business"]
 # matching entirely.
 LUMA_DESCRIPTION_MIN_KEYWORDS = 3
 
+# Trimmed from the upstream list: web3, crypto, blockchain, coding, hacker,
+# hackers. The crypto cluster pulled in a scene this tracker isn't aimed at,
+# and "coding"/"hacker(s)" were loose enough to catch generic bootcamp and
+# recruiting posts. Verified redundant when removed: every event they matched
+# in Amsterdam also matched another keyword. "hackathon"/"hackathons" are
+# deliberately kept -- they still drive the Hackathons filter chip.
 GENERIC_TECH_KEYWORDS = [
     "tech", "startup", "startups", "founder", "founders", "venture", "vc",
     "hackathon", "hackathons", "engineer", "engineers", "engineering",
     "developer", "developers", "product", "ai", "ml",
-    "machine learning", "artificial intelligence", "web3", "crypto",
-    "blockchain", "saas", "software", "coding", "hacker", "hackers",
+    "machine learning", "artificial intelligence", "saas", "software",
     "demo day", "pitch", "y combinator",
 ]
 
