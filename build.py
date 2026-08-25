@@ -36,6 +36,16 @@ BROAD_SOURCES = {"Luma", "Eventbrite", "Meetup"}
 # bags), not UX/product design.
 EVENTBRITE_CATEGORIES = ["tech", "science-and-tech", "business"]
 
+# Luma's JSON discover feed carries no event description, so a city event is
+# matched on its title alone and real tech events get dropped ("ClickHouse
+# Amsterdam Meetup", "Building an Agentic Culture"). Luma does publish the
+# same feed as ICS, which *does* include descriptions. Descriptions are noisy
+# (host boilerplate, sponsor blurbs), so a title hit counts on its own while a
+# description must hit this many DISTINCT keywords to qualify. Tune with
+# "luma_description_min_keywords" in config.json; 0 disables description
+# matching entirely.
+LUMA_DESCRIPTION_MIN_KEYWORDS = 3
+
 GENERIC_TECH_KEYWORDS = [
     "tech", "startup", "startups", "founder", "founders", "venture", "vc",
     "hackathon", "hackathons", "engineer", "engineers", "engineering",
@@ -269,7 +279,7 @@ def match_luma_place(city, places):
     return None
 
 
-def _map_luma_event(ev, organization="", curated=False, now=None):
+def _map_luma_event(ev, organization="", curated=False, now=None, description=""):
     """Shared mapping for both the city discover feed and hand-picked
     calendars — Luma returns the same event shape in both APIs."""
     start_iso = ev.get("start_at")
@@ -302,7 +312,41 @@ def _map_luma_event(ev, organization="", curated=False, now=None):
         "prize": "",
         "organization": organization,
         "curated": curated,
+        # Matching only — never rendered. See LUMA_DESCRIPTION_MIN_KEYWORDS.
+        "match_text": description,
     }
+
+
+def fetch_luma_ics_descriptions(place_api_id):
+    """Map Luma event slug -> description text, from the ICS mirror of a
+    discover feed. Matching only; this text is never displayed. Returns {} on
+    any failure so Luma still works exactly as before."""
+    try:
+        resp = requests.get(
+            "https://api.luma.com/ics/get",
+            params={"entity": "discover", "id": place_api_id},
+            headers=HEADERS,
+            timeout=30,
+        )
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"  ! could not load Luma ICS descriptions: {e}")
+        return {}
+
+    # RFC 5545 folds long lines by starting the continuation with a space/tab.
+    text = re.sub(r"\r?\n[ \t]", "", resp.text)
+    descriptions = {}
+    for block in text.split("BEGIN:VEVENT")[1:]:
+        match = re.search(r"^DESCRIPTION(?:;[^:]*)?:(.*)$", block, re.M)
+        if not match:
+            continue
+        body = match.group(1)
+        # Every description opens with a link back to the event page; that
+        # slug is what ties this entry to the JSON feed's event["url"].
+        slug = re.search(r"https://lu(?:ma)?\.(?:ma|com)/([A-Za-z0-9_-]+)", body)
+        if slug:
+            descriptions[slug.group(1)] = body
+    return descriptions
 
 
 def fetch_luma(city, max_events=80):
@@ -311,6 +355,8 @@ def fetch_luma(city, max_events=80):
     if not place:
         print(f"  ! Luma doesn't have a discover page matching '{city}', skipping Luma")
         return []
+
+    descriptions = fetch_luma_ics_descriptions(place["api_id"])
 
     events = []
     cursor = ""
@@ -340,8 +386,12 @@ def fetch_luma(city, max_events=80):
 
         for entry in entries:
             calendar = entry.get("calendar") or {}
+            event = entry.get("event") or {}
             mapped = _map_luma_event(
-                entry.get("event") or {}, organization=calendar.get("name", ""), now=now
+                event,
+                organization=calendar.get("name", ""),
+                now=now,
+                description=descriptions.get(event.get("url", ""), ""),
             )
             if mapped:
                 events.append(mapped)
@@ -669,6 +719,9 @@ def filter_events(events, config):
     # terms, regardless of require_keyword_match. Anything from
     # extra_luma_calendars is exempt — you already hand-picked that source.
     broad_keywords = list({*keywords, *GENERIC_TECH_KEYWORDS})
+    desc_min = config.get(
+        "luma_description_min_keywords", LUMA_DESCRIPTION_MIN_KEYWORDS
+    )
 
     kept = []
     seen_urls = set()
@@ -694,7 +747,16 @@ def filter_events(events, config):
             pass  # you picked this source yourself — no narrowing
         elif ev["source"] in BROAD_SOURCES:
             if not keyword_match(haystack, broad_keywords):
-                continue
+                # Title/tags said nothing, but the description may. It is
+                # noisy, so require several distinct keywords, not one.
+                if desc_min <= 0:
+                    continue
+                description = ev.get("match_text", "").lower()
+                if not description:
+                    continue
+                hits = {k for k in broad_keywords if keyword_match(description, [k])}
+                if len(hits) < desc_min:
+                    continue
         elif require_kw and keywords and not keyword_match(haystack, keywords):
             continue
 
@@ -951,9 +1013,16 @@ def main():
     html_out = render_html(events, config)
     (ROOT / "index.html").write_text(html_out, encoding="utf-8")
 
-    # Also save the raw data in case you want it later.
+    # Also save the raw data in case you want it later. "match_text" is
+    # scratch data used only for keyword matching, so it is dropped here
+    # rather than committed to the repo on every run.
     (ROOT / "events.json").write_text(
-        json.dumps(events, indent=2, default=str), encoding="utf-8"
+        json.dumps(
+            [{k: v for k, v in ev.items() if k != "match_text"} for ev in events],
+            indent=2,
+            default=str,
+        ),
+        encoding="utf-8",
     )
     print("Wrote index.html and events.json")
 
