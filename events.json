@@ -1,28 +1,28 @@
 [
   {
     "source": "Meetup",
-    "title": "Chicago Tech Mixer 2026",
-    "url": "https://www.meetup.com/chicagomixer/events/310833876/",
-    "location": "Chicago, IL",
-    "dates": "Aug 27, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-27 18:00:00",
+    "title": "mck y licencias de software libre",
+    "url": "https://www.meetup.com/aws-sbg-at-atemajac-valley-university-zapopan-campus/events/316161092/",
+    "location": "Online",
+    "dates": "Aug 28, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-08-28 18:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Chicago Startup and Tech Mixer",
+    "organization": "AWS SBG at Atemajac Valley University - Zapopan Campus",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "Tech Pulse 2030 Chicago",
-    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503640/",
-    "location": "Chicago, IL",
-    "dates": "Sep 01, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-09-01 17:00:00",
+    "title": "Founders Running Club :: Easy 5-10km Run + Talks",
+    "url": "https://www.meetup.com/founders-running-club/events/315363406/",
+    "location": "San Francisco, CA",
+    "dates": "Aug 29, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-08-29 09:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI 2030: Responsible Artificial Intelligence for All",
+    "organization": "Founders Running Club :: San Francisco",
     "curated": false
   },
   {
@@ -78,19 +78,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Chicago AI Builders & Operators",
-    "url": "https://www.meetup.com/chicago-ai-builders-operators/events/315996855/",
-    "location": "",
-    "dates": "Sep 03, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-03 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Chicago AI Builders & Operators",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Peter Wennink (former CEO of ASML) - Panel Discussion on \"The Role of Education in a Time of Rapid AI Change\" | AISO Opening Night 2026/27",
     "url": "https://lu.ma/xy78pxjf",
@@ -130,19 +117,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI Assisted Engineering Series - Planning",
-    "url": "https://www.meetup.com/chicago-ml/events/316281427/",
-    "location": "",
-    "dates": "Sep 09, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-09 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Chicago ML",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Building an Agentic Culture",
     "url": "https://lu.ma/ak17bhn9",
@@ -166,6 +140,32 @@
     "themes": [],
     "prize": "",
     "organization": "ClickHouse Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Amsterdam | Claude Meetup: Build Your Second Brain",
+    "url": "https://lu.ma/claude-wdr9",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Sep 15, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-15 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Claude Community Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
+    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150516/",
+    "location": "San Francisco, CA",
+    "dates": "Sep 19, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-09-19 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Bay Area AI War Room",
     "curated": false
   },
   {
