@@ -1,28 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "mck y licencias de software libre",
-    "url": "https://www.meetup.com/aws-sbg-at-atemajac-valley-university-zapopan-campus/events/316161092/",
+    "title": "Copilot, Microsoft 365 & Power Platform product updates call",
+    "url": "https://www.meetup.com/global-microsoft-365-dev-meetup/events/316294495/",
     "location": "Online",
-    "dates": "Aug 28, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-08-28 18:30:00",
+    "dates": "Sep 01, 2026 \u00b7 8:00 AM",
+    "sort_date": "2026-09-01 08:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AWS SBG at Atemajac Valley University - Zapopan Campus",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Founders Running Club :: Easy 5-10km Run + Talks",
-    "url": "https://www.meetup.com/founders-running-club/events/315363406/",
-    "location": "San Francisco, CA",
-    "dates": "Aug 29, 2026 \u00b7 9:30 AM",
-    "sort_date": "2026-08-29 09:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Founders Running Club :: San Francisco",
+    "organization": "Global Microsoft 365 & Power Platform Meetup",
     "curated": false
   },
   {
@@ -65,6 +52,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI for Business & Marketing: Build workflows that move your business forward",
+    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315284347/",
+    "location": "Online",
+    "dates": "Sep 03, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-03 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI + Marketing Meetup Group",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Hackers & Founders Meetup",
     "url": "https://lu.ma/q296ufp6",
@@ -101,6 +101,19 @@
     "themes": [],
     "prize": "",
     "organization": "Hatch Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI product photography studio: Create better business images with AI",
+    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315402861/",
+    "location": "Online",
+    "dates": "Sep 09, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-09 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI + Marketing Meetup Group",
     "curated": false
   },
   {
@@ -153,19 +166,6 @@
     "themes": [],
     "prize": "",
     "organization": "Claude Community Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
-    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150516/",
-    "location": "San Francisco, CA",
-    "dates": "Sep 19, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-09-19 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Bay Area AI War Room",
     "curated": false
   },
   {
