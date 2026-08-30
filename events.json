@@ -1,15 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Copilot, Microsoft 365 & Power Platform product updates call",
-    "url": "https://www.meetup.com/global-microsoft-365-dev-meetup/events/316294495/",
+    "title": "Re-Placed: Answering the Call of Leadership in the Age of AI",
+    "url": "https://www.meetup.com/complexitylounge/events/315968287/",
     "location": "Online",
-    "dates": "Sep 01, 2026 \u00b7 8:00 AM",
-    "sort_date": "2026-09-01 08:00:00",
+    "dates": "Sep 01, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-09-01 12:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Global Microsoft 365 & Power Platform Meetup",
+    "organization": "The Complexity Lounge",
     "curated": false
   },
   {
@@ -26,12 +26,25 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Google AI Deep Dive (Ep 3) - multimodal data",
+    "url": "https://www.meetup.com/boston-enterprise-ai/events/316150033/",
+    "location": "Online",
+    "dates": "Sep 02, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-09-02 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Boston Enterprise AI",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Lenny\u2019s Newsletter Meetup in Amsterdam (with free drinks courtesy of Revolut)",
     "url": "https://lu.ma/z7j8epfl",
     "location": "Amsterdam, Netherlands",
-    "dates": "Sep 02, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-02 16:00:00",
+    "dates": "Sep 02, 2026 \u00b7 6:15 PM",
+    "sort_date": "2026-09-02 16:15:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
@@ -52,19 +65,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI for Business & Marketing: Build workflows that move your business forward",
-    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315284347/",
-    "location": "Online",
-    "dates": "Sep 03, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-03 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI + Marketing Meetup Group",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Hackers & Founders Meetup",
     "url": "https://lu.ma/q296ufp6",
@@ -75,6 +75,32 @@
     "themes": [],
     "prize": "",
     "organization": "Hackers & Founders Amsterdam",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Becoming a Frontier Firm with Microsoft AI",
+    "url": "https://www.meetup.com/data-ai-and-app-development-meetup/events/316310541/",
+    "location": "Online",
+    "dates": "Sep 08, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-09-08 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Data & AI and App Development Meetup",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Lunch and Learn: Build Skills \u2014 Teach Your AI Agents How You Work",
+    "url": "https://www.meetup.com/all-things-ai-live/events/316064500/",
+    "location": "Online",
+    "dates": "Sep 08, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-09-08 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "All Things AI (Live)",
     "curated": false
   },
   {
@@ -91,6 +117,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/316189139/",
+    "location": "Online",
+    "dates": "Sep 08, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-09-08 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "TalknCode",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Soup Talks | The Human Advantage in the Age of AI: An Insider\u2019s View | with Bob van Luijt",
     "url": "https://lu.ma/96l1f37v",
@@ -104,19 +143,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI product photography studio: Create better business images with AI",
-    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315402861/",
-    "location": "Online",
-    "dates": "Sep 09, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-09 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI + Marketing Meetup Group",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Mindstone Amsterdam September AI Meetup",
     "url": "https://lu.ma/glkrd5a8",
@@ -127,6 +153,32 @@
     "themes": [],
     "prize": "",
     "organization": "Mindstone AI Meetup",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "USA Tech Talent and Hiring Summit 2026 | Entry-Level Technology Recruitment",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316115144/",
+    "location": "Online",
+    "dates": "Sep 10, 2026 \u00b7 2:00 AM",
+    "sort_date": "2026-09-10 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "AI Salon Amsterdam",
+    "url": "https://lu.ma/ai-salon-amsterdam-september-2026",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Sep 10, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-09-10 15:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Salon (www.AiSalon.ai)",
     "curated": false
   },
   {
