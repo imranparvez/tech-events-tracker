@@ -1,19 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "Hackers & Founders Meetup",
-    "url": "https://lu.ma/q296ufp6",
-    "location": "Amsterdam, Netherlands",
-    "dates": "Sep 03, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-09-03 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Hackers & Founders Amsterdam",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Peter Wennink (former CEO of ASML) - Panel Discussion on \"The Role of Education in a Time of Rapid AI Change\" | AISO Opening Night 2026/27",
     "url": "https://lu.ma/xy78pxjf",
     "location": "Amsterdam, Netherlands",
@@ -39,6 +26,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Get Paid to Train AI + Member-Driven AI Topic of the Week \ud83e\udd16\ud83d\udcb0",
+    "url": "https://www.meetup.com/get-paid-to-train-ai-las-vegas/events/316074694/",
+    "location": "Online",
+    "dates": "Sep 09, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-09 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Mindstone Amsterdam September AI Meetup",
     "url": "https://lu.ma/glkrd5a8",
@@ -53,15 +53,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Mobile Engineering Meetup",
-    "url": "https://www.meetup.com/des-moines-mobile-developers/events/316098796/",
-    "location": "Urbandale, IA",
-    "dates": "Sep 09, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-09 17:30:00",
+    "title": "AI Assisted Engineering Series - Planning",
+    "url": "https://www.meetup.com/chicago-ml/events/316281427/",
+    "location": "",
+    "dates": "Sep 09, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-09 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Des Moines Mobile Developers",
+    "organization": "Chicago ML",
     "curated": false
   },
   {
@@ -118,15 +118,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Enhancing Behavior Driven Development (BDD) with AI",
-    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356573/",
-    "location": "Des Moines, IA",
+    "title": "Automation, MCP, and vibe coding: what gets built vs. what gets shipped",
+    "url": "https://www.meetup.com/js-chi/events/314509630/",
+    "location": "Chicago, IL",
     "dates": "Sep 15, 2026 \u00b7 5:30 PM",
     "sort_date": "2026-09-15 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Des Moines Artificial Intelligence Group",
+    "organization": "Digital Delivery Chicago (formerly Chicago JavaScript)",
     "curated": false
   },
   {
@@ -156,6 +156,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Using AI Harnesses to Harness Microsoft Fabric",
+    "url": "https://www.meetup.com/chicagolandpowerbi/events/315787998/",
+    "location": "Chicago, IL",
+    "dates": "Sep 24, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-09-24 15:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago Fabric / Power BI User Group",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Build Night #5 @ Mollie",
     "url": "https://lu.ma/b5as845y",
@@ -166,6 +179,19 @@
     "themes": [],
     "prize": "",
     "organization": "The Stack",
+    "curated": true
+  },
+  {
+    "source": "Luma",
+    "title": "Hackers & Founders Meetup",
+    "url": "https://lu.ma/22ozog8f",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Oct 01, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-01 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Hackers & Founders Amsterdam",
     "curated": true
   },
   {
