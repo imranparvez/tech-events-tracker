@@ -1,5 +1,31 @@
 [
   {
+    "source": "Meetup",
+    "title": "Founders Running Club :: Easy 5-10km Run + Talks",
+    "url": "https://www.meetup.com/founders-running-club/events/316125116/",
+    "location": "San Francisco, CA",
+    "dates": "Sep 05, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-09-05 09:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Founders Running Club :: San Francisco",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Bay Area AI War Room - Berkeley Edition - Saturday, 10:00 AM",
+    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150513/",
+    "location": "Berkeley, CA",
+    "dates": "Sep 05, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-09-05 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Bay Area AI War Room",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Peter Wennink (former CEO of ASML) - Panel Discussion on \"The Role of Education in a Time of Rapid AI Change\" | AISO Opening Night 2026/27",
     "url": "https://lu.ma/xy78pxjf",
@@ -26,19 +52,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Get Paid to Train AI + Member-Driven AI Topic of the Week \ud83e\udd16\ud83d\udcb0",
-    "url": "https://www.meetup.com/get-paid-to-train-ai-las-vegas/events/316074694/",
-    "location": "Online",
-    "dates": "Sep 09, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-09 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Mindstone Amsterdam September AI Meetup",
     "url": "https://lu.ma/glkrd5a8",
@@ -53,15 +66,15 @@
   },
   {
     "source": "Meetup",
-    "title": "AI Assisted Engineering Series - Planning",
-    "url": "https://www.meetup.com/chicago-ml/events/316281427/",
+    "title": "AI Dev Night - Coding agents and AI-native development",
+    "url": "https://www.meetup.com/sfbay-ai/events/316269830/",
     "location": "",
-    "dates": "Sep 09, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-09 18:00:00",
+    "dates": "Sep 09, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-09 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Chicago ML",
+    "organization": "SF AI",
     "curated": false
   },
   {
@@ -118,15 +131,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Automation, MCP, and vibe coding: what gets built vs. what gets shipped",
-    "url": "https://www.meetup.com/js-chi/events/314509630/",
-    "location": "Chicago, IL",
-    "dates": "Sep 15, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-15 17:30:00",
+    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
+    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150516/",
+    "location": "San Francisco, CA",
+    "dates": "Sep 19, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-09-19 10:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Digital Delivery Chicago (formerly Chicago JavaScript)",
+    "organization": "Bay Area AI War Room",
     "curated": false
   },
   {
@@ -156,19 +169,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Using AI Harnesses to Harness Microsoft Fabric",
-    "url": "https://www.meetup.com/chicagolandpowerbi/events/315787998/",
-    "location": "Chicago, IL",
-    "dates": "Sep 24, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-09-24 15:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Chicago Fabric / Power BI User Group",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Build Night #5 @ Mollie",
     "url": "https://lu.ma/b5as845y",
@@ -180,6 +180,19 @@
     "prize": "",
     "organization": "The Stack",
     "curated": true
+  },
+  {
+    "source": "Meetup",
+    "title": "AI Workflows PMs Use Every Day",
+    "url": "https://www.meetup.com/producttank-sf/events/316357762/",
+    "location": "San Francisco, CA",
+    "dates": "Sep 30, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-30 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ProductTank SF",
+    "curated": false
   },
   {
     "source": "Luma",
