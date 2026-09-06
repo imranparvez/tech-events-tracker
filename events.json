@@ -1,28 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Founders Running Club :: Easy 5-10km Run + Talks",
-    "url": "https://www.meetup.com/founders-running-club/events/316125116/",
-    "location": "San Francisco, CA",
-    "dates": "Sep 05, 2026 \u00b7 9:30 AM",
-    "sort_date": "2026-09-05 09:30:00",
+    "title": "Lunch and Learn: Build Skills \u2014 Teach Your AI Agents How You Work",
+    "url": "https://www.meetup.com/all-things-ai-live/events/316064500/",
+    "location": "Online",
+    "dates": "Sep 08, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-09-08 12:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Founders Running Club :: San Francisco",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Bay Area AI War Room - Berkeley Edition - Saturday, 10:00 AM",
-    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150513/",
-    "location": "Berkeley, CA",
-    "dates": "Sep 05, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-09-05 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Bay Area AI War Room",
+    "organization": "All Things AI (Live)",
     "curated": false
   },
   {
@@ -52,6 +39,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Get Paid to Train AI + Member-Driven AI Topic of the Week \ud83e\udd16\ud83d\udcb0",
+    "url": "https://www.meetup.com/get-paid-to-train-ai-las-vegas/events/316074694/",
+    "location": "Online",
+    "dates": "Sep 09, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-09 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Mindstone Amsterdam September AI Meetup",
     "url": "https://lu.ma/glkrd5a8",
@@ -66,15 +66,15 @@
   },
   {
     "source": "Meetup",
-    "title": "AI Dev Night - Coding agents and AI-native development",
-    "url": "https://www.meetup.com/sfbay-ai/events/316269830/",
-    "location": "",
+    "title": "Mobile Engineering Meetup",
+    "url": "https://www.meetup.com/des-moines-mobile-developers/events/316098796/",
+    "location": "Urbandale, IA",
     "dates": "Sep 09, 2026 \u00b7 5:30 PM",
     "sort_date": "2026-09-09 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "SF AI",
+    "organization": "Des Moines Mobile Developers",
     "curated": false
   },
   {
@@ -131,15 +131,41 @@
   },
   {
     "source": "Meetup",
-    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
-    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150516/",
-    "location": "San Francisco, CA",
-    "dates": "Sep 19, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-09-19 10:00:00",
+    "title": "Enhancing Behavior Driven Development (BDD) with AI",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356573/",
+    "location": "Des Moines, IA",
+    "dates": "Sep 15, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-15 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Bay Area AI War Room",
+    "organization": "Des Moines Artificial Intelligence Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "End of Summer | Product Networking Mixer",
+    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316421956/",
+    "location": "Des Moines, IA",
+    "dates": "Sep 22, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-09-22 16:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ProductTank Des Moines/Ames",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "SaltStack: Configuration Management From Cloud Images to Developer Desktops",
+    "url": "https://www.meetup.com/devopsdsm/events/316404457/",
+    "location": "Urbandale, IA",
+    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-23 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DevOpsDSM",
     "curated": false
   },
   {
@@ -180,19 +206,6 @@
     "prize": "",
     "organization": "The Stack",
     "curated": true
-  },
-  {
-    "source": "Meetup",
-    "title": "AI Workflows PMs Use Every Day",
-    "url": "https://www.meetup.com/producttank-sf/events/316357762/",
-    "location": "San Francisco, CA",
-    "dates": "Sep 30, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-30 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "ProductTank SF",
-    "curated": false
   },
   {
     "source": "Luma",
