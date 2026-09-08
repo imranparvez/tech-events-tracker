@@ -1,44 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "Bring your Software as Craft Event Ideas!",
-    "url": "https://www.meetup.com/software-as-craft-philadelphia/events/316333005/",
-    "location": "Online",
-    "dates": "Sep 07, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-07 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Software as Craft Philadelphia",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Lunch and Learn: Build Skills \u2014 Teach Your AI Agents How You Work",
-    "url": "https://www.meetup.com/all-things-ai-live/events/316064500/",
-    "location": "Online",
-    "dates": "Sep 08, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-09-08 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "All Things AI (Live)",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Peter Wennink (former CEO of ASML) - Panel Discussion on \"The Role of Education in a Time of Rapid AI Change\" | AISO Opening Night 2026/27",
-    "url": "https://lu.ma/xy78pxjf",
-    "location": "Amsterdam, Netherlands",
-    "dates": "Sep 08, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-08 16:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AISO",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Soup Talks | The Human Advantage in the Age of AI: An Insider\u2019s View | with Bob van Luijt",
     "url": "https://lu.ma/96l1f37v",
@@ -53,15 +14,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Webinar \"Building Context-Aware AI Agents with Real-Time Data\"",
-    "url": "https://www.meetup.com/open-data-science-ny-odsc/events/316070736/",
+    "title": "Get Paid to Train AI + Member-Driven AI Topic of the Week \ud83e\udd16\ud83d\udcb0",
+    "url": "https://www.meetup.com/get-paid-to-train-ai-las-vegas/events/316074694/",
     "location": "Online",
-    "dates": "Sep 09, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-09-09 12:00:00",
+    "dates": "Sep 09, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-09 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "ODSC AI New York",
+    "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
     "curated": false
   },
   {
@@ -79,15 +40,15 @@
   },
   {
     "source": "Meetup",
-    "title": "USA Tech Talent and Hiring Summit 2026 | Entry-Level Technology Recruitment",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316115144/",
-    "location": "Online",
-    "dates": "Sep 10, 2026 \u00b7 2:00 AM",
-    "sort_date": "2026-09-10 02:00:00",
+    "title": "Mobile Engineering Meetup",
+    "url": "https://www.meetup.com/des-moines-mobile-developers/events/316098796/",
+    "location": "Urbandale, IA",
+    "dates": "Sep 09, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-09 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
+    "organization": "Des Moines Mobile Developers",
     "curated": false
   },
   {
@@ -104,19 +65,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "\ud83e\udd16 How To Really Make Money Online With AI \u2013 Beginner Workshop",
-    "url": "https://www.meetup.com/ai-learning-networking-new-york/events/316044169/",
-    "location": "Online",
-    "dates": "Sep 10, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-09-10 15:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Learning & Networking New York",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Building an Agentic Culture",
     "url": "https://lu.ma/ak17bhn9",
@@ -127,19 +75,6 @@
     "themes": [],
     "prize": "",
     "organization": "AI house event",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "King \u2212 Man + Woman = Queen: How AI Learns the Meaning of Words",
-    "url": "https://www.meetup.com/machine-learning-workshop/events/316152368/",
-    "location": "Online",
-    "dates": "Sep 13, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-09-13 14:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Office Hours",
     "curated": false
   },
   {
@@ -170,15 +105,41 @@
   },
   {
     "source": "Meetup",
-    "title": "Still Standing? Design, Product and Engineering After AI",
-    "url": "https://www.meetup.com/ladies-that-ux-atl/events/316219791/",
-    "location": "Online",
-    "dates": "Sep 17, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-17 18:30:00",
+    "title": "Enhancing Behavior Driven Development (BDD) with AI",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356573/",
+    "location": "Des Moines, IA",
+    "dates": "Sep 15, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-15 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Ladies That UX ATL",
+    "organization": "Des Moines Artificial Intelligence Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "End of Summer | Product Networking Mixer",
+    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316421956/",
+    "location": "Des Moines, IA",
+    "dates": "Sep 22, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-09-22 16:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ProductTank Des Moines/Ames",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "SaltStack: Configuration Management From Cloud Images to Developer Desktops",
+    "url": "https://www.meetup.com/devopsdsm/events/316404457/",
+    "location": "Urbandale, IA",
+    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-23 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DevOpsDSM",
     "curated": false
   },
   {
@@ -219,6 +180,32 @@
     "prize": "",
     "organization": "The Stack",
     "curated": true
+  },
+  {
+    "source": "Luma",
+    "title": "WMN& x Atlassian: How to navigate your career in the AI era",
+    "url": "https://lu.ma/5pvth9jj",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Sep 24, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-24 15:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "WMN&",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Pitch Elevator | By World Trade Center Amsterdam, Golden Egg Check & StartupAmsterdam",
+    "url": "https://lu.ma/msp6kncq",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Oct 01, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-10-01 13:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Golden Egg Check",
+    "curated": false
   },
   {
     "source": "Luma",
