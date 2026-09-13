@@ -1,15 +1,28 @@
 [
   {
     "source": "Meetup",
-    "title": "King \u2212 Man + Woman = Queen: How AI Learns the Meaning of Words",
-    "url": "https://www.meetup.com/machine-learning-workshop/events/316152368/",
+    "title": "San Diego Tech Coffee Online",
+    "url": "https://www.meetup.com/sandiego-tech-coffee/events/316283020/",
     "location": "Online",
-    "dates": "Sep 13, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-09-13 14:00:00",
+    "dates": "Sep 15, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-09-15 09:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Office Hours",
+    "organization": "San Diego Tech Coffee",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "ClickHouse Amsterdam Meetup @ Adyen",
+    "url": "https://lu.ma/clickh-vu1p",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Sep 15, 2026 \u00b7 5:15 PM",
+    "sort_date": "2026-09-15 15:15:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ClickHouse Events",
     "curated": false
   },
   {
@@ -36,32 +49,6 @@
     "themes": [],
     "prize": "",
     "organization": "HumanSoulAI",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "End of Summer | Product Networking Mixer",
-    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316421956/",
-    "location": "Des Moines, IA",
-    "dates": "Sep 22, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-09-22 16:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "ProductTank Des Moines/Ames",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "SaltStack: Configuration Management From Cloud Images to Developer Desktops",
-    "url": "https://www.meetup.com/devopsdsm/events/316404457/",
-    "location": "Urbandale, IA",
-    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-23 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "DevOpsDSM",
     "curated": false
   },
   {
@@ -153,6 +140,19 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI for business operations: Save time, make decisions, and streamline work",
+    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315279498/",
+    "location": "Online",
+    "dates": "Oct 06, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-06 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI + Marketing Meetup Group",
     "curated": false
   },
   {
