@@ -1,6 +1,19 @@
 [
   {
     "source": "Meetup",
+    "title": "AI for All - an intro!",
+    "url": "https://www.meetup.com/ai-for-all-meet-up-to-discuss-how-to-leverage-ai-for-work/events/316476153/",
+    "location": "Online",
+    "dates": "Sep 17, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-09-17 14:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI for all - Meet up to discuss how to leverage AI for work!",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "Harness Engineering: What Actually Runs Your AI Agent",
     "url": "https://www.meetup.com/meetup-group-ufpdcpso/events/316374289/",
     "location": "Online",
@@ -40,6 +53,71 @@
   },
   {
     "source": "Luma",
+    "title": "The Stack Construction Tour [Invite-Only]",
+    "url": "https://lu.ma/9li5w6rb",
+    "location": "Amsterdam, Noord-Holland",
+    "dates": "Sep 24, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-09-24 08:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Stack",
+    "curated": true
+  },
+  {
+    "source": "Luma",
+    "title": "A fireside chat with Ashwin Sreenivas - Co-Founder & President at Decagon",
+    "url": "https://lu.ma/wthztk44",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Sep 24, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-09-24 15:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Whale",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Build Night #5 @ Mollie",
+    "url": "https://lu.ma/b5as845y",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Sep 24, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-24 15:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Stack",
+    "curated": true
+  },
+  {
+    "source": "Luma",
+    "title": "WMN& x Atlassian: How to navigate your career in the AI era",
+    "url": "https://lu.ma/5pvth9jj",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Sep 24, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-24 15:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "WMN&",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Pitch Elevator | By World Trade Center Amsterdam, Golden Egg Check & StartupAmsterdam",
+    "url": "https://lu.ma/msp6kncq",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Oct 01, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-10-01 13:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Golden Egg Check",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Hackers & Founders Meetup",
     "url": "https://lu.ma/22ozog8f",
     "location": "Amsterdam, Netherlands",
@@ -49,6 +127,45 @@
     "themes": [],
     "prize": "",
     "organization": "Hackers & Founders Amsterdam",
+    "curated": true
+  },
+  {
+    "source": "Luma",
+    "title": "Built by Few: Amsterdam - The Founder Summit by Connect",
+    "url": "https://lu.ma/to6zx71l",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Oct 06, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-06 14:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Europe 2031: With Michiel Bakker",
+    "url": "https://lu.ma/whale-fxoz",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Oct 13, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-13 15:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Whale",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "TechEx Amsterdam Hackathon",
+    "url": "https://lu.ma/lablab-m6y3",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Oct 19, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-10-19 07:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Stack",
     "curated": true
   }
 ]
