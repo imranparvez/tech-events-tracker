@@ -1,28 +1,28 @@
 [
   {
-    "source": "Meetup",
-    "title": "End of Summer | Product Networking Mixer",
-    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316421956/",
-    "location": "Des Moines, IA",
-    "dates": "Sep 22, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-09-22 16:30:00",
+    "source": "Luma",
+    "title": "Startups Speakeasy at HumanX w/ Fin, Stripe, and Nebius",
+    "url": "https://lu.ma/startupspeakeasyhumanx",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-23 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "ProductTank Des Moines/Ames",
+    "organization": "Fin",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "SaltStack: Configuration Management From Cloud Images to Developer Desktops",
-    "url": "https://www.meetup.com/devopsdsm/events/316404457/",
-    "location": "Urbandale, IA",
+    "title": "Claude 101: Getting Started with Anthropic\u2019s AI Assistant",
+    "url": "https://www.meetup.com/nashuaug/events/316276862/",
+    "location": "Online",
     "dates": "Sep 23, 2026 \u00b7 6:00 PM",
     "sort_date": "2026-09-23 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "DevOpsDSM",
+    "organization": "Nashua CLOUD .NET User Group",
     "curated": false
   },
   {
@@ -79,15 +79,28 @@
   },
   {
     "source": "Meetup",
-    "title": "From Retrieval to Action: GraphRAG Meets Physical AI",
-    "url": "https://www.meetup.com/agentic-ai-context-builders/events/316217896/",
+    "title": "Beyond RAG: Building an Evaluated, Self-Improving Agentic AI System",
+    "url": "https://www.meetup.com/meetup-group-ufpdcpso/events/316504446/",
     "location": "Online",
-    "dates": "Sep 30, 2026 \u00b7 8:00 AM",
-    "sort_date": "2026-09-30 08:00:00",
+    "dates": "Sep 24, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-24 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Agentic AI Context Builders",
+    "organization": "Charlotte Artificial Intelligence Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Find a Cofounder / Help or Join a Tech Startup",
+    "url": "https://www.meetup.com/dc-startup-cofounders/events/314897746/",
+    "location": "Online",
+    "dates": "Sep 24, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-09-24 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "D.C. Startup Founders & Tech Professionals",
     "curated": false
   },
   {
@@ -153,19 +166,6 @@
     "themes": [],
     "prize": "",
     "organization": "Whale",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "3 Illusions in Software Delivery with Joel Tosi",
-    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316553691/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 14, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-10-14 16:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "ProductTank Des Moines/Ames",
     "curated": false
   },
   {
