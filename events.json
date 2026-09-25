@@ -1,45 +1,6 @@
 [
   {
     "source": "Meetup",
-    "title": "AI Meetup - AI Vibe Coding Competition",
-    "url": "https://www.meetup.com/ai-for-entrepreneurs-and-business-leaders/events/316555509/",
-    "location": "Phoenix, AZ",
-    "dates": "Sep 24, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-09-24 16:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI for Entrepreneurs and Business Leaders",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Agentic Engineering: How AI Agents Actually Work",
-    "url": "https://www.meetup.com/azemergingtech/events/315041448/",
-    "location": "Scottsdale, AZ",
-    "dates": "Sep 24, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-24 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Arizona AI & Emerging Technology",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Beyond RAG: Building an Evaluated, Self-Improving Agentic AI System",
-    "url": "https://www.meetup.com/meetup-group-ufpdcpso/events/316504446/",
-    "location": "Online",
-    "dates": "Sep 24, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-24 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Charlotte Artificial Intelligence Meetup Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "From Retrieval to Action: GraphRAG Meets Physical AI",
     "url": "https://www.meetup.com/agentic-ai-context-builders/events/316217896/",
     "location": "Online",
@@ -117,32 +78,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Figma MCP Deep Dive (un-vibe your website) \u2713 plus: \"Should We Slow Down AI?\"",
-    "url": "https://www.meetup.com/cracked-claude-cowork-and-codex-club/events/316397490/",
-    "location": "Phoenix, AZ",
-    "dates": "Oct 06, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-06 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Cracked Claude Cowork and Codex Club (AI Networking)",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI in AZ Talks & Training - Oct 9 with Julia McCoy and Jeff Hunter",
-    "url": "https://www.meetup.com/ai-arizona/events/316567543/",
-    "location": "Scottsdale, AZ",
-    "dates": "Oct 09, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-10-09 17:00:20",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Arizona",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Europe 2031: With Michiel Bakker",
     "url": "https://lu.ma/whale-fxoz",
@@ -157,28 +92,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Phoenix Tech Networking Meetup",
-    "url": "https://www.meetup.com/phoenix-tech-group/events/316658383/",
-    "location": "Scottsdale, AZ",
-    "dates": "Oct 14, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-14 17:30:00",
+    "title": "3 Illusions in Software Delivery with Joel Tosi",
+    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316553691/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 14, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-10-14 16:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Phoenix Tech Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Building Production-Grade Agentic AI",
-    "url": "https://www.meetup.com/azemergingtech/events/315041451/",
-    "location": "Scottsdale, AZ",
-    "dates": "Oct 15, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-15 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Arizona AI & Emerging Technology",
+    "organization": "ProductTank Des Moines/Ames",
     "curated": false
   },
   {
@@ -193,6 +115,32 @@
     "prize": "",
     "organization": "The Stack",
     "curated": true
+  },
+  {
+    "source": "Meetup",
+    "title": "Reimagining Analytics Delivery for the AI Era",
+    "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 20, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-20 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Data & Analytics",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Building a physical product in the age of AI",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356587/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 20, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-20 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Artificial Intelligence Group",
+    "curated": false
   },
   {
     "source": "Luma",
