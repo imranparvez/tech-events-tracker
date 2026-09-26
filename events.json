@@ -1,6 +1,19 @@
 [
   {
     "source": "Meetup",
+    "title": "San Diego Tech Coffee Online",
+    "url": "https://www.meetup.com/sandiego-tech-coffee/events/316485252/",
+    "location": "Online",
+    "dates": "Sep 29, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-09-29 09:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "San Diego Tech Coffee",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "From Retrieval to Action: GraphRAG Meets Physical AI",
     "url": "https://www.meetup.com/agentic-ai-context-builders/events/316217896/",
     "location": "Online",
@@ -78,6 +91,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Figma MCP Deep Dive (un-vibe your website) \u2713 plus: \"Should We Slow Down AI?\"",
+    "url": "https://www.meetup.com/cracked-claude-cowork-and-codex-club/events/316397490/",
+    "location": "Phoenix, AZ",
+    "dates": "Oct 06, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-06 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Cracked Claude Cowork and Codex Club (AI Networking)",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tacos+Tech",
+    "url": "https://www.meetup.com/dataphx/events/316477667/",
+    "location": "Tempe, AZ",
+    "dates": "Oct 12, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-12 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DATAPHX",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Europe 2031: With Michiel Bakker",
     "url": "https://lu.ma/whale-fxoz",
@@ -92,15 +131,41 @@
   },
   {
     "source": "Meetup",
-    "title": "3 Illusions in Software Delivery with Joel Tosi",
-    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316553691/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 14, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-10-14 16:30:00",
+    "title": "Phoenix Tech Networking Meetup",
+    "url": "https://www.meetup.com/phoenix-tech-group/events/316658383/",
+    "location": "Scottsdale, AZ",
+    "dates": "Oct 14, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-14 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "ProductTank Des Moines/Ames",
+    "organization": "Phoenix Tech Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Building Production-Grade Agentic AI",
+    "url": "https://www.meetup.com/azemergingtech/events/315041451/",
+    "location": "Scottsdale, AZ",
+    "dates": "Oct 15, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-15 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Arizona AI & Emerging Technology",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Chandler Building Faster with Claude Code",
+    "url": "https://www.meetup.com/building-together-with-claude-code-skills/events/316703573/",
+    "location": "Chandler, AZ",
+    "dates": "Oct 19, 2026 \u00b7 5:26 AM",
+    "sort_date": "2026-10-19 05:26:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Building Together With Claude Code Skills",
     "curated": false
   },
   {
@@ -115,32 +180,6 @@
     "prize": "",
     "organization": "The Stack",
     "curated": true
-  },
-  {
-    "source": "Meetup",
-    "title": "Reimagining Analytics Delivery for the AI Era",
-    "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 20, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-20 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Data & Analytics",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Building a physical product in the age of AI",
-    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356587/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 20, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-20 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Artificial Intelligence Group",
-    "curated": false
   },
   {
     "source": "Luma",
