@@ -1,41 +1,28 @@
 [
   {
-    "source": "Luma",
-    "title": "Pitch Elevator | By World Trade Center Amsterdam, Golden Egg Check & StartupAmsterdam",
-    "url": "https://lu.ma/msp6kncq",
-    "location": "Amsterdam, Netherlands",
-    "dates": "Oct 01, 2026 \u00b7 3:00 PM",
+    "source": "Meetup",
+    "title": "AI Professional Certification Summit!",
+    "url": "https://www.meetup.com/denver-startup-idea-to-ipo/events/316517592/",
+    "location": "Online",
+    "dates": "Oct 01, 2026 \u00b7 1:00 PM",
     "sort_date": "2026-10-01 13:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Golden Egg Check",
+    "organization": "Colorado  Startup: Idea to IPO",
     "curated": false
   },
   {
-    "source": "Luma",
-    "title": "Hackers & Founders Meetup",
-    "url": "https://lu.ma/22ozog8f",
-    "location": "Amsterdam, Netherlands",
-    "dates": "Oct 01, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-01 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Hackers & Founders Amsterdam",
-    "curated": true
-  },
-  {
     "source": "Meetup",
-    "title": "How Quantum AI Will Transform Cybersecurity",
-    "url": "https://www.meetup.com/licn-long-island-consultants-network/events/315245247/",
+    "title": "Building Agentic AI: A 5-Week Hands-On Bootcamp with the OpenAI Agents SDK",
+    "url": "https://www.meetup.com/fresno-data-science-meetup/events/316706288/",
     "location": "Online",
-    "dates": "Oct 01, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-01 19:00:00",
+    "dates": "Oct 01, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-01 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "IEEE Consultants Network of Long Island (LICN)",
+    "organization": "Fresno Data Science Meetup",
     "curated": false
   },
   {
@@ -78,32 +65,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "url": "https://www.meetup.com/ac-atl/events/315927621/",
-    "location": "Online",
-    "dates": "Oct 07, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-07 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics.Club Atlanta: Data & AI Community, Connect. Grow.",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "\ud83d\ude80 Exposed: How To Really Make Money Online With AI",
-    "url": "https://www.meetup.com/ai-learning-networking-new-york/events/316769565/",
-    "location": "Online",
-    "dates": "Oct 08, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-10-08 15:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Learning & Networking New York",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Europe 2031: With Michiel Bakker",
     "url": "https://lu.ma/whale-fxoz",
@@ -140,6 +101,19 @@
     "themes": [],
     "prize": "",
     "organization": "The Stack",
+    "curated": true
+  },
+  {
+    "source": "Luma",
+    "title": "Hackers & Founders Meetup",
+    "url": "https://lu.ma/7q8ds0ar",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Dec 03, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-03 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Hackers & Founders Amsterdam",
     "curated": true
   }
 ]
