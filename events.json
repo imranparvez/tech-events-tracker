@@ -1,28 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "AI Professional Certification Summit!",
-    "url": "https://www.meetup.com/denver-startup-idea-to-ipo/events/316517592/",
+    "title": "Agile Coaching in the Age of AI with Bob Galen",
+    "url": "https://www.meetup.com/scrum-masters-of-the-universe/events/316556329/",
     "location": "Online",
-    "dates": "Oct 01, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-10-01 13:00:00",
+    "dates": "Oct 05, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-10-05 12:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Colorado  Startup: Idea to IPO",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Building Agentic AI: A 5-Week Hands-On Bootcamp with the OpenAI Agents SDK",
-    "url": "https://www.meetup.com/fresno-data-science-meetup/events/316706288/",
-    "location": "Online",
-    "dates": "Oct 01, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-01 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Fresno Data Science Meetup",
+    "organization": "Scrum Masters of the Universe",
     "curated": false
   },
   {
@@ -65,6 +52,58 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
+    "url": "https://www.meetup.com/ac-atl/events/315927621/",
+    "location": "Online",
+    "dates": "Oct 07, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-07 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Analytics.Club Atlanta: Data & AI Community, Connect. Grow.",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Start Your Data Engineering Career | Free 3-Hour Live Training & Guidance",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316626174/",
+    "location": "Online",
+    "dates": "Oct 07, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-07 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Start Your Machine Learning & AI Engineering Career | Free 3-Hour Training",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316625991/",
+    "location": "Online",
+    "dates": "Oct 08, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-10-08 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI This Week: Open Circle",
+    "url": "https://www.meetup.com/newjerseyaigroup/events/316780724/",
+    "location": "Online",
+    "dates": "Oct 08, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-08 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "New Jersey Artificial Intelligence Meetup Group",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Europe 2031: With Michiel Bakker",
     "url": "https://lu.ma/whale-fxoz",
@@ -75,6 +114,19 @@
     "themes": [],
     "prize": "",
     "organization": "Whale",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Claude 102: Personalization and Workspace",
+    "url": "https://www.meetup.com/nashuaug/events/316453041/",
+    "location": "Online",
+    "dates": "Oct 14, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-14 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Nashua CLOUD .NET User Group",
     "curated": false
   },
   {
