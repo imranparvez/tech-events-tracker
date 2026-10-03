@@ -1,6 +1,19 @@
 [
   {
     "source": "Meetup",
+    "title": "AI Agents from Scratch: A Beginner's LLM Workshop",
+    "url": "https://www.meetup.com/introduction-to-data-science/events/316628517/",
+    "location": "Online",
+    "dates": "Oct 03, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-10-03 11:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Silicon Valley Data Science, ML, AI Platform",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "Agile Coaching in the Age of AI with Bob Galen",
     "url": "https://www.meetup.com/scrum-masters-of-the-universe/events/316556329/",
     "location": "Online",
@@ -10,6 +23,19 @@
     "themes": [],
     "prize": "",
     "organization": "Scrum Masters of the Universe",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Copilot, Microsoft 365 & Power Platform product updates call",
+    "url": "https://www.meetup.com/global-microsoft-365-dev-meetup/events/316817594/",
+    "location": "Online",
+    "dates": "Oct 06, 2026 \u00b7 8:00 AM",
+    "sort_date": "2026-10-06 08:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Global Microsoft 365 & Power Platform Meetup",
     "curated": false
   },
   {
@@ -54,53 +80,27 @@
   {
     "source": "Meetup",
     "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "url": "https://www.meetup.com/ac-atl/events/315927621/",
+    "url": "https://www.meetup.com/ac-sea/events/316603705/",
     "location": "Online",
-    "dates": "Oct 07, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-07 16:00:00",
+    "dates": "Oct 07, 2026 \u00b7 4:02 PM",
+    "sort_date": "2026-10-07 16:02:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Analytics.Club Atlanta: Data & AI Community, Connect. Grow.",
+    "organization": "Analytics.Club Seattle: Data & AI Community, Connect. Grow.",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "Start Your Data Engineering Career | Free 3-Hour Live Training & Guidance",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316626174/",
+    "title": "AI Connect - Job and Career Networking for AI Specialists",
+    "url": "https://www.meetup.com/ac-sea/events/316629015/",
     "location": "Online",
-    "dates": "Oct 07, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-07 19:00:00",
+    "dates": "Oct 09, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-10-09 14:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Start Your Machine Learning & AI Engineering Career | Free 3-Hour Training",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316625991/",
-    "location": "Online",
-    "dates": "Oct 08, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-10-08 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI This Week: Open Circle",
-    "url": "https://www.meetup.com/newjerseyaigroup/events/316780724/",
-    "location": "Online",
-    "dates": "Oct 08, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-08 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "New Jersey Artificial Intelligence Meetup Group",
+    "organization": "Analytics.Club Seattle: Data & AI Community, Connect. Grow.",
     "curated": false
   },
   {
@@ -114,19 +114,6 @@
     "themes": [],
     "prize": "",
     "organization": "Whale",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Claude 102: Personalization and Workspace",
-    "url": "https://www.meetup.com/nashuaug/events/316453041/",
-    "location": "Online",
-    "dates": "Oct 14, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-14 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Nashua CLOUD .NET User Group",
     "curated": false
   },
   {
