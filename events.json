@@ -1,41 +1,41 @@
 [
   {
     "source": "Meetup",
-    "title": "Building Production-Grade Agentic AI",
-    "url": "https://www.meetup.com/azemergingtech/events/315041451/",
-    "location": "Scottsdale, AZ",
-    "dates": "Oct 15, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-15 18:00:00",
+    "title": "Intro to MCP - Model Context Protocol for AI Tool Use",
+    "url": "https://www.meetup.com/eli-the-computer-guy/events/316963474/",
+    "location": "Online",
+    "dates": "Oct 16, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-10-16 15:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Arizona AI & Emerging Technology",
+    "organization": "Eli the Computer Guy",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "Pollack Cinema - AI Film 3 showcase event",
-    "url": "https://www.meetup.com/aicollective/events/316718631/",
-    "location": "Tempe, AZ",
-    "dates": "Oct 15, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-15 18:00:32",
+    "title": "Let's talk AI",
+    "url": "https://www.meetup.com/machine-learning-workshop/events/316287417/",
+    "location": "Online",
+    "dates": "Oct 17, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-10-17 14:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Technology, Film, Art, and Music Meetup Group",
+    "organization": "AI Office Hours",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "Ship AI AZ GTM Hackathon",
-    "url": "https://www.meetup.com/shipai/events/316437106/",
-    "location": "Phoenix, AZ",
-    "dates": "Oct 17, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-10-17 09:00:00",
+    "title": "Reimagining Analytics Delivery for the AI Era",
+    "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 20, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-20 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Ship AI",
+    "organization": "Des Moines Data & Analytics",
     "curated": false
   },
   {
@@ -53,15 +53,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Tech Tuesday Happy Hour #21",
-    "url": "https://www.meetup.com/aztechtuesday/events/316976445/",
-    "location": "Scottsdale, AZ",
+    "title": "Building a physical product in the age of AI",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356587/",
+    "location": "Des Moines, IA",
     "dates": "Oct 20, 2026 \u00b7 5:30 PM",
     "sort_date": "2026-10-20 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AZ Tech Tuesday",
+    "organization": "Des Moines Artificial Intelligence Group",
     "curated": false
   },
   {
@@ -91,6 +91,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Why AI is our Ultimate Test and Greatest Invitation",
+    "url": "https://www.meetup.com/ai-safety-awareness-group-omaha/events/316877888/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 21, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-21 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Safety Awareness Group Omaha",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "The Stack Construction Tour [Invite-Only]",
     "url": "https://lu.ma/f8us602u",
@@ -102,32 +115,6 @@
     "prize": "",
     "organization": "The Stack",
     "curated": true
-  },
-  {
-    "source": "Meetup",
-    "title": "No Hype: AI Business Transformation",
-    "url": "https://www.meetup.com/old-pueblo-new-economy-artificial-intelligence-trailblazers/events/316181540/",
-    "location": "Phoenix, AZ",
-    "dates": "Oct 22, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-10-22 09:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Artificial Intelligence Trailblazers",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Designers Social Hour (Creative Ghosts)",
-    "url": "https://www.meetup.com/phoenix-designers-network/events/316743985/",
-    "location": "Phoenix, AZ",
-    "dates": "Oct 23, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-23 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Phoenix Designers Network",
-    "curated": false
   },
   {
     "source": "Luma",
@@ -144,15 +131,15 @@
   },
   {
     "source": "Luma",
-    "title": "Amsterdam | Claude Build Day",
-    "url": "https://lu.ma/sy8fhw2m",
+    "title": "Forward Deployed: with Wonderful",
+    "url": "https://lu.ma/mxu7cp93",
     "location": "Amsterdam, Netherlands",
-    "dates": "Oct 30, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-10-30 09:00:00",
+    "dates": "Nov 05, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-11-05 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Personal",
+    "organization": "Whale",
     "curated": false
   },
   {
@@ -166,19 +153,6 @@
     "themes": [],
     "prize": "",
     "organization": "AI House Amsterdam Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI in AZ - AI Film Premiere Night (The Stewards)",
-    "url": "https://www.meetup.com/ai-arizona/events/316540389/",
-    "location": "Scottsdale, AZ",
-    "dates": "Nov 13, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-11-13 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Arizona",
     "curated": false
   },
   {
