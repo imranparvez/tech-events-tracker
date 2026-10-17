@@ -1,28 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Intro to MCP - Model Context Protocol for AI Tool Use",
-    "url": "https://www.meetup.com/eli-the-computer-guy/events/316963474/",
+    "title": "Save 10 Hours a Week: Run Your Operations with Claude [ONLINE]",
+    "url": "https://www.meetup.com/the-ai-briefing-room/events/316751052/",
     "location": "Online",
-    "dates": "Oct 16, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-10-16 15:00:00",
+    "dates": "Oct 19, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-10-19 12:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Eli the Computer Guy",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Let's talk AI",
-    "url": "https://www.meetup.com/machine-learning-workshop/events/316287417/",
-    "location": "Online",
-    "dates": "Oct 17, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-10-17 14:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Office Hours",
+    "organization": "The AI Briefing Room",
     "curated": false
   },
   {
@@ -180,5 +167,18 @@
     "prize": "",
     "organization": "Hackers & Founders Amsterdam",
     "curated": true
+  },
+  {
+    "source": "Meetup",
+    "title": "Let's talk AI",
+    "url": "https://www.meetup.com/machine-learning-workshop/events/316287417/",
+    "location": "Online",
+    "dates": "Dec 19, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-12-19 14:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Office Hours",
+    "curated": false
   }
 ]
