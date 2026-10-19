@@ -1,31 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "Save 10 Hours a Week: Run Your Operations with Claude [ONLINE]",
-    "url": "https://www.meetup.com/the-ai-briefing-room/events/316751052/",
-    "location": "Online",
-    "dates": "Oct 19, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-10-19 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The AI Briefing Room",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Reimagining Analytics Delivery for the AI Era",
-    "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 20, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-20 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Data & Analytics",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Tech Careers in the Netherlands: How to Get In",
     "url": "https://lu.ma/kooch-jy27",
@@ -36,32 +10,6 @@
     "themes": [],
     "prize": "",
     "organization": "Koochcommunity",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Building a physical product in the age of AI",
-    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356587/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 20, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-20 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Artificial Intelligence Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Live Webinar: The Missing Ontology Layer in Enterprise AI",
-    "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/316895692/",
-    "location": "Online",
-    "dates": "Oct 21, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-10-21 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Machine Learning_ML Meetup Group",
     "curated": false
   },
   {
@@ -92,15 +40,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Why AI is our Ultimate Test and Greatest Invitation",
-    "url": "https://www.meetup.com/ai-safety-awareness-group-omaha/events/316877888/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 21, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-21 19:00:00",
+    "title": "Hackers and Founders San Francisco",
+    "url": "https://www.meetup.com/hackers-and-founders/events/316892062/",
+    "location": "San Francisco, CA",
+    "dates": "Oct 21, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-21 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Safety Awareness Group Omaha",
+    "organization": "Hackers/Founders",
     "curated": false
   },
   {
@@ -117,6 +65,32 @@
     "curated": true
   },
   {
+    "source": "Meetup",
+    "title": "Founders Running Club :: Easy 5-10km Run + Talks",
+    "url": "https://www.meetup.com/founders-running-club/events/316388662/",
+    "location": "San Francisco, CA",
+    "dates": "Oct 24, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-10-24 09:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Founders Running Club :: San Francisco",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "SF AI->SI Code and Coffee Sunday October 25th 2026 @Salesforce Park!",
+    "url": "https://www.meetup.com/sf-code-coffee/events/316997837/",
+    "location": "San Francisco, CA",
+    "dates": "Oct 25, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-10-25 14:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "San Francisco AI Code and Coffee",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Your product is ready. Your go-to-market isn't.",
     "url": "https://lu.ma/glf8zu20",
@@ -127,6 +101,45 @@
     "themes": [],
     "prize": "",
     "organization": "Gradient & Scaler Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "USF Enterprise AI Summit #2",
+    "url": "https://www.meetup.com/usf-data-science-and-ai-speaker-series/events/316800543/",
+    "location": "San Francisco, CA",
+    "dates": "Oct 30, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-10-30 14:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "USF Data Science & Artificial Intelligence Speaker Series",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "OSA CON 2026: The Anti-Hype Conference for Open Source Analytics and AI",
+    "url": "https://www.meetup.com/real-time-analytics-and-ai/events/316657797/",
+    "location": "Online",
+    "dates": "Nov 02, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-11-02 09:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Real Time Data Lakes and AI",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Own Your AI: Build an Agentic AI Model Factory - in person Hack Night",
+    "url": "https://www.meetup.com/ai-builders-and-learners-sf/events/316758369/",
+    "location": "San Francisco, CA",
+    "dates": "Nov 03, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-11-03 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Builders and Learners SF",
     "curated": false
   },
   {
@@ -153,6 +166,19 @@
     "themes": [],
     "prize": "",
     "organization": "AI House Amsterdam Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Developing for iPhone Duo and AI Testing \u2014 Bay Area Swift",
+    "url": "https://www.meetup.com/swift-language/events/313452932/",
+    "location": "San Francisco, CA",
+    "dates": "Nov 12, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-12 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Swift Language User Group x Cocoaheads | SF & Silicon Valley",
     "curated": false
   },
   {
