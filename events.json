@@ -1,15 +1,28 @@
 [
   {
-    "source": "Luma",
-    "title": "Tech Careers in the Netherlands: How to Get In",
-    "url": "https://lu.ma/kooch-jy27",
-    "location": "Amsterdam, Netherlands",
-    "dates": "Oct 20, 2026 \u00b7 6:00 PM",
+    "source": "Meetup",
+    "title": "Welcome to the Machine Learning Study Group #61",
+    "url": "https://www.meetup.com/study-machine-learning/events/316788150/",
+    "location": "Online",
+    "dates": "Oct 20, 2026 \u00b7 4:00 PM",
     "sort_date": "2026-10-20 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Koochcommunity",
+    "organization": "Study Machine Learning",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "The Friction Point: How Acterra Turns Climate Tech into Community Adoption",
+    "url": "https://www.meetup.com/climatelink-sanfrancisco/events/316789442/",
+    "location": "San Francisco, CA",
+    "dates": "Oct 20, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-20 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ClimateLink",
     "curated": false
   },
   {
@@ -92,6 +105,19 @@
   },
   {
     "source": "Luma",
+    "title": "Fuckup Nights: Founders Stories Edition",
+    "url": "https://lu.ma/amsterdam-gbvf",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Oct 27, 2026 \u00b7 6:45 PM",
+    "sort_date": "2026-10-27 17:45:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Amsterdam Founders Club",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Your product is ready. Your go-to-market isn't.",
     "url": "https://lu.ma/glf8zu20",
     "location": "Amsterdam, Netherlands",
@@ -101,6 +127,19 @@
     "themes": [],
     "prize": "",
     "organization": "Gradient & Scaler Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Amsterdam | Claude Community Meetup #5",
+    "url": "https://lu.ma/claude-rtuf",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Oct 29, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-29 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Claude Community Events",
     "curated": false
   },
   {
@@ -166,19 +205,6 @@
     "themes": [],
     "prize": "",
     "organization": "AI House Amsterdam Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Developing for iPhone Duo and AI Testing \u2014 Bay Area Swift",
-    "url": "https://www.meetup.com/swift-language/events/313452932/",
-    "location": "San Francisco, CA",
-    "dates": "Nov 12, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-12 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Swift Language User Group x Cocoaheads | SF & Silicon Valley",
     "curated": false
   },
   {
