@@ -1,28 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "AI in Action: Real-World Applications, Challenges, and Impact",
-    "url": "https://www.meetup.com/ai-for-entrepreneurs-and-business-leaders/events/317017816/",
-    "location": "Phoenix, AZ",
-    "dates": "Oct 22, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-10-22 16:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI for Entrepreneurs and Business Leaders",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Designers Social Hour (Creative Ghosts)",
-    "url": "https://www.meetup.com/phoenix-designers-network/events/316743985/",
-    "location": "Phoenix, AZ",
+    "title": "Introducing Kobo: A Modern, AI-Conscious Programming Language for .NET",
+    "url": "https://www.meetup.com/technology-ai/events/316991403/",
+    "location": "Online",
     "dates": "Oct 23, 2026 \u00b7 6:00 PM",
     "sort_date": "2026-10-23 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Phoenix Designers Network",
+    "organization": "technology.ai",
     "curated": false
   },
   {
@@ -52,6 +39,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Precision Pitch Practice (RECURRING)",
+    "url": "https://www.meetup.com/boston_new_technology/events/316911820/",
+    "location": "Online",
+    "dates": "Oct 29, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-10-29 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Boston New Technology (BNT)",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Amsterdam | Claude Community Meetup #5",
     "url": "https://lu.ma/claude-rtuf",
@@ -62,6 +62,32 @@
     "themes": [],
     "prize": "",
     "organization": "Claude Community Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/316493341/",
+    "location": "Online",
+    "dates": "Nov 03, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-11-03 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "TalknCode",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Stop Prompting. Start Building. Reusable Systems in Claude Cowork",
+    "url": "https://www.meetup.com/above-the-model/events/316841206/",
+    "location": "Online",
+    "dates": "Nov 03, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-03 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Above the Model",
     "curated": false
   },
   {
@@ -78,19 +104,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Tacos+Tech",
-    "url": "https://www.meetup.com/dataphx/events/316925594/",
-    "location": "Tempe, AZ",
-    "dates": "Nov 09, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-09 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "DATAPHX",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "ChemAI x Deep Tech Builders",
     "url": "https://lu.ma/aihouse-eyno",
@@ -104,16 +117,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI, Engineering, Getting Things to Market",
-    "url": "https://www.meetup.com/azemergingtech/events/315041455/",
-    "location": "Scottsdale, AZ",
-    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-19 18:00:00",
+    "source": "Luma",
+    "title": "\ud83c\uddf3\ud83c\uddf1 Supercharging Your Team with AI: Force Multiplier vs. Replacement | Product People x Miro",
+    "url": "https://lu.ma/ayyktd98",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Nov 13, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-11-13 08:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Arizona AI & Emerging Technology",
+    "organization": "Product People",
     "curated": false
   },
   {
