@@ -1,15 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Introducing Kobo: A Modern, AI-Conscious Programming Language for .NET",
-    "url": "https://www.meetup.com/technology-ai/events/316991403/",
+    "title": "#CertOps: Clase #10 - Servicios de Machine Learning e IA",
+    "url": "https://www.meetup.com/aws-sbg-at-national-autonomous-univ-of-mexico-central-campus/events/317027466/",
     "location": "Online",
-    "dates": "Oct 23, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-23 18:00:00",
+    "dates": "Oct 24, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-10-24 12:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "technology.ai",
+    "organization": "AWS SBG at  National Autonomous University of Mexico",
     "curated": false
   },
   {
@@ -39,19 +39,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Precision Pitch Practice (RECURRING)",
-    "url": "https://www.meetup.com/boston_new_technology/events/316911820/",
-    "location": "Online",
-    "dates": "Oct 29, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-10-29 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Boston New Technology (BNT)",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Amsterdam | Claude Community Meetup #5",
     "url": "https://lu.ma/claude-rtuf",
@@ -66,28 +53,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/316493341/",
-    "location": "Online",
-    "dates": "Nov 03, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-11-03 18:30:00",
+    "title": "Pollack Cinema - AI Film 3 showcase event",
+    "url": "https://www.meetup.com/aicollective/events/316822913/",
+    "location": "Tempe, AZ",
+    "dates": "Oct 29, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-29 18:00:32",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "TalknCode",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Stop Prompting. Start Building. Reusable Systems in Claude Cowork",
-    "url": "https://www.meetup.com/above-the-model/events/316841206/",
-    "location": "Online",
-    "dates": "Nov 03, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-11-03 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Above the Model",
+    "organization": "AI Technology, Film, Art, and Music Meetup Group",
     "curated": false
   },
   {
@@ -101,6 +75,19 @@
     "themes": [],
     "prize": "",
     "organization": "Whale",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tacos+Tech",
+    "url": "https://www.meetup.com/dataphx/events/316925594/",
+    "location": "Tempe, AZ",
+    "dates": "Nov 09, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-09 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DATAPHX",
     "curated": false
   },
   {
@@ -127,6 +114,19 @@
     "themes": [],
     "prize": "",
     "organization": "Product People",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI, Engineering, Getting Things to Market",
+    "url": "https://www.meetup.com/azemergingtech/events/315041455/",
+    "location": "Scottsdale, AZ",
+    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-19 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Arizona AI & Emerging Technology",
     "curated": false
   },
   {
