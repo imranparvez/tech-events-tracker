@@ -1,18 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "#CertOps: Clase #10 - Servicios de Machine Learning e IA",
-    "url": "https://www.meetup.com/aws-sbg-at-national-autonomous-univ-of-mexico-central-campus/events/317027466/",
-    "location": "Online",
-    "dates": "Oct 24, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-10-24 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AWS SBG at  National Autonomous University of Mexico",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Fuckup Nights: Founders Stories Edition",
     "url": "https://lu.ma/amsterdam-gbvf",
@@ -39,6 +26,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Precision Pitch Practice (RECURRING)",
+    "url": "https://www.meetup.com/boston_new_technology/events/316911820/",
+    "location": "Online",
+    "dates": "Oct 29, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-10-29 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Boston New Technology (BNT)",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Amsterdam | Claude Community Meetup #5",
     "url": "https://lu.ma/claude-rtuf",
@@ -53,41 +53,28 @@
   },
   {
     "source": "Meetup",
-    "title": "Pollack Cinema - AI Film 3 showcase event",
-    "url": "https://www.meetup.com/aicollective/events/316822913/",
-    "location": "Tempe, AZ",
-    "dates": "Oct 29, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-29 18:00:32",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/316493341/",
+    "location": "Online",
+    "dates": "Nov 03, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-11-03 18:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Technology, Film, Art, and Music Meetup Group",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Forward Deployed: with Wonderful",
-    "url": "https://lu.ma/mxu7cp93",
-    "location": "Amsterdam, Netherlands",
-    "dates": "Nov 05, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-11-05 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Whale",
+    "organization": "TalknCode",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "Tacos+Tech",
-    "url": "https://www.meetup.com/dataphx/events/316925594/",
-    "location": "Tempe, AZ",
-    "dates": "Nov 09, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-09 18:00:00",
+    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
+    "url": "https://www.meetup.com/ac-yyz/events/316878190/",
+    "location": "Online",
+    "dates": "Nov 04, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-11-04 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "DATAPHX",
+    "organization": "Toronto Analytics.Club: Data & AI Community, Connect. Grow.",
     "curated": false
   },
   {
@@ -114,19 +101,6 @@
     "themes": [],
     "prize": "",
     "organization": "Product People",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI, Engineering, Getting Things to Market",
-    "url": "https://www.meetup.com/azemergingtech/events/315041455/",
-    "location": "Scottsdale, AZ",
-    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-19 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Arizona AI & Emerging Technology",
     "curated": false
   },
   {
