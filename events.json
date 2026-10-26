@@ -1,5 +1,18 @@
 [
   {
+    "source": "Meetup",
+    "title": "Get Paid to Train AI + Build Your First AI Workflow",
+    "url": "https://www.meetup.com/get-paid-to-train-ai-las-vegas/events/316612215/",
+    "location": "Online",
+    "dates": "Oct 27, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-27 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Fuckup Nights: Founders Stories Edition",
     "url": "https://lu.ma/amsterdam-gbvf",
@@ -26,19 +39,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Precision Pitch Practice (RECURRING)",
-    "url": "https://www.meetup.com/boston_new_technology/events/316911820/",
-    "location": "Online",
-    "dates": "Oct 29, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-10-29 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Boston New Technology (BNT)",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Amsterdam | Claude Community Meetup #5",
     "url": "https://lu.ma/claude-rtuf",
@@ -49,32 +49,6 @@
     "themes": [],
     "prize": "",
     "organization": "Claude Community Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/316493341/",
-    "location": "Online",
-    "dates": "Nov 03, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-11-03 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "TalknCode",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "url": "https://www.meetup.com/ac-yyz/events/316878190/",
-    "location": "Online",
-    "dates": "Nov 04, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-11-04 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Toronto Analytics.Club: Data & AI Community, Connect. Grow.",
     "curated": false
   },
   {
@@ -101,6 +75,19 @@
     "themes": [],
     "prize": "",
     "organization": "Product People",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "DSM AI Group Monthly Meeting (Speaker TBD)",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316699314/",
+    "location": "Des Moines, IA",
+    "dates": "Nov 17, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-17 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Artificial Intelligence Group",
     "curated": false
   },
   {
