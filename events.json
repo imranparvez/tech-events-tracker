@@ -1,28 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Get Paid to Train AI + Build Your First AI Workflow",
-    "url": "https://www.meetup.com/get-paid-to-train-ai-las-vegas/events/316612215/",
+    "title": "AI Book Club: Grokking Deep Reinforcement Learning",
+    "url": "https://www.meetup.com/ai-builders-and-learners-sf/events/316684899/",
     "location": "Online",
-    "dates": "Oct 27, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-10-27 17:00:00",
+    "dates": "Oct 27, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-10-27 13:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Fuckup Nights: Founders Stories Edition",
-    "url": "https://lu.ma/amsterdam-gbvf",
-    "location": "Amsterdam, Netherlands",
-    "dates": "Oct 27, 2026 \u00b7 6:45 PM",
-    "sort_date": "2026-10-27 17:45:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Amsterdam Founders Club",
+    "organization": "AI Builders and Learners SF",
     "curated": false
   },
   {
