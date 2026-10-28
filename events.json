@@ -1,31 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "AI Book Club: Grokking Deep Reinforcement Learning",
-    "url": "https://www.meetup.com/ai-builders-and-learners-sf/events/316684899/",
-    "location": "Online",
-    "dates": "Oct 27, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-10-27 13:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Builders and Learners SF",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Your product is ready. Your go-to-market isn't.",
-    "url": "https://lu.ma/glf8zu20",
-    "location": "Amsterdam, Netherlands",
-    "dates": "Oct 28, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-10-28 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Gradient & Scaler Events",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Amsterdam | Claude Community Meetup #5",
     "url": "https://lu.ma/claude-rtuf",
@@ -104,6 +78,19 @@
     "curated": true
   },
   {
+    "source": "Meetup",
+    "title": "Create short videos with an AI twin",
+    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315809684/",
+    "location": "Online",
+    "dates": "Dec 03, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-12-03 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI + Marketing Meetup Group",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Hackers & Founders Meetup",
     "url": "https://lu.ma/7q8ds0ar",
@@ -114,6 +101,19 @@
     "themes": [],
     "prize": "",
     "organization": "Hackers & Founders Amsterdam",
+    "curated": true
+  },
+  {
+    "source": "Luma",
+    "title": "Breakthrough Tech to Industrial Traction: Positioning & Comms to Win Customers for AI and Deep Tech",
+    "url": "https://lu.ma/https://platform.techleap.nl/events/breakthrough-tech-to-industrial-traction-positioning-and-comms-to-win-customers-for-ai-and-deeptech?open=true",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Jan 20, 2027 \u00b7 2:00 PM",
+    "sort_date": "2027-01-20 13:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Stack",
     "curated": true
   }
 ]
