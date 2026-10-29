@@ -1,15 +1,41 @@
 [
   {
-    "source": "Luma",
-    "title": "Amsterdam | Claude Community Meetup #5",
-    "url": "https://lu.ma/claude-rtuf",
-    "location": "Amsterdam, Netherlands",
-    "dates": "Oct 29, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-29 18:00:00",
+    "source": "Meetup",
+    "title": "Pollack Cinema - AI Film 3 showcase event",
+    "url": "https://www.meetup.com/aicollective/events/316822913/",
+    "location": "Tempe, AZ",
+    "dates": "Oct 29, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-29 18:00:32",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Claude Community Events",
+    "organization": "AI Technology, Film, Art, and Music Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Design Your Own Dessert",
+    "url": "https://lu.ma/mdkclqeh",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Nov 05, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-05 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tacos+Tech",
+    "url": "https://www.meetup.com/dataphx/events/316925594/",
+    "location": "Tempe, AZ",
+    "dates": "Nov 09, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-09 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DATAPHX",
     "curated": false
   },
   {
@@ -40,15 +66,28 @@
   },
   {
     "source": "Meetup",
-    "title": "DSM AI Group Monthly Meeting (Speaker TBD)",
-    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316699314/",
-    "location": "Des Moines, IA",
-    "dates": "Nov 17, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-17 17:30:00",
+    "title": "AI in AZ - AI Film Premiere Night (The Stewards)",
+    "url": "https://www.meetup.com/ai-arizona/events/316540389/",
+    "location": "Scottsdale, AZ",
+    "dates": "Nov 13, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-11-13 17:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Des Moines Artificial Intelligence Group",
+    "organization": "AI Arizona",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI, Engineering, Getting Things to Market",
+    "url": "https://www.meetup.com/azemergingtech/events/315041455/",
+    "location": "Scottsdale, AZ",
+    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-19 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Arizona AI & Emerging Technology",
     "curated": false
   },
   {
@@ -76,19 +115,6 @@
     "prize": "",
     "organization": "The Stack",
     "curated": true
-  },
-  {
-    "source": "Meetup",
-    "title": "Create short videos with an AI twin",
-    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315809684/",
-    "location": "Online",
-    "dates": "Dec 03, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-12-03 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI + Marketing Meetup Group",
-    "curated": false
   },
   {
     "source": "Luma",
