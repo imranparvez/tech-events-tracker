@@ -1,31 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "Tech Talk: Why a Dev Blog Is Your Career\u2019s Secret Weapon with Rachel Kaufman",
-    "url": "https://www.meetup.com/techacademy/events/316803366/",
-    "location": "Online",
-    "dates": "Oct 30, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-10-30 13:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Tech Academy",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "The Open-Source AI System I Built to Run My Job Search",
-    "url": "https://www.meetup.com/agileaustin/events/316652248/",
-    "location": "Online",
-    "dates": "Oct 30, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-10-30 15:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Agile Austin",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Amsterdam | Claude & Coffee",
     "url": "https://lu.ma/claude-vbjr",
@@ -39,6 +13,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/316493341/",
+    "location": "Online",
+    "dates": "Nov 03, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-11-03 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "TalknCode",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Design Your Own Dessert",
     "url": "https://lu.ma/mdkclqeh",
@@ -49,6 +36,45 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "FREE REMOTE | AI GROWTH CIRCLE (AN OPEN AI FORUM FOR ALL)",
+    "url": "https://www.meetup.com/ai-growth-circle/events/315939837/",
+    "location": "Online",
+    "dates": "Nov 05, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-05 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Growth Circle",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "The Career Reset: Surviving and Thriving in the AI Economy",
+    "url": "https://www.meetup.com/technology-ai/events/317154857/",
+    "location": "Online",
+    "dates": "Nov 05, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-11-05 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "technology.ai",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "AI Morning: AI for Marketing, Communication & Creative Work",
+    "url": "https://lu.ma/fy6kgxb8",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Nov 09, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-11-09 08:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Equals",
     "curated": false
   },
   {
@@ -91,19 +117,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI for Developers: Productivity, Building, and Dev Setup",
-    "url": "https://www.meetup.com/the-ubuntu-techhive-north-america/events/316847246/",
-    "location": "Online",
-    "dates": "Nov 14, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-11-14 10:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Ubuntu TechHive North America",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "The Stack Construction Tour [Invite-Only]",
     "url": "https://lu.ma/t1ndbxmv",
@@ -115,6 +128,19 @@
     "prize": "",
     "organization": "The Stack",
     "curated": true
+  },
+  {
+    "source": "Luma",
+    "title": "Hackathon for Good: AI by Women, for Women",
+    "url": "https://lu.ma/equals-utwi",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Nov 28, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-11-28 09:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Equals",
+    "curated": false
   },
   {
     "source": "Luma",
