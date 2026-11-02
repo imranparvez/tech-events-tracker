@@ -1,41 +1,15 @@
 [
   {
-    "source": "Luma",
-    "title": "Amsterdam | Claude & Coffee",
-    "url": "https://lu.ma/claude-vbjr",
-    "location": "Amsterdam, Netherlands",
-    "dates": "Nov 02, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-11-02 09:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Claude Community Events",
-    "curated": false
-  },
-  {
     "source": "Meetup",
-    "title": "OSA CON 2026: The Anti-Hype Conference for Open Source Analytics and AI",
-    "url": "https://www.meetup.com/real-time-analytics-and-ai/events/316657797/",
-    "location": "Online",
-    "dates": "Nov 02, 2026 \u00b7 9:30 AM",
-    "sort_date": "2026-11-02 09:30:00",
+    "title": "Architecting an AI Agency's Company Knowledge Base",
+    "url": "https://www.meetup.com/cracked-claude-cowork-and-codex-club/events/317198583/",
+    "location": "Phoenix, AZ",
+    "dates": "Nov 03, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-03 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Real Time Data Lakes and AI",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Own Your AI: Build an Agentic AI Model Factory - in person Hack Night",
-    "url": "https://www.meetup.com/ai-builders-and-learners-sf/events/316758369/",
-    "location": "San Francisco, CA",
-    "dates": "Nov 03, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-11-03 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Builders and Learners SF",
+    "organization": "Cracked Claude Cowork and Codex Club (AI Networking)",
     "curated": false
   },
   {
@@ -52,32 +26,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Startup World Cup 2026 Grand Finale",
-    "url": "https://www.meetup.com/silicon-valley-cloud-and-ai/events/316807312/",
-    "location": "San Francisco, CA",
-    "dates": "Nov 06, 2026 \u00b7 8:00 AM",
-    "sort_date": "2026-11-06 08:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Silicon Valley Cloud & Ai",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Founders Running Club :: Easy 5-10km Run + Talks",
-    "url": "https://www.meetup.com/founders-running-club/events/317036615/",
-    "location": "San Francisco, CA",
-    "dates": "Nov 07, 2026 \u00b7 9:30 AM",
-    "sort_date": "2026-11-07 09:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Founders Running Club :: San Francisco",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "AI Morning: AI for Marketing, Communication & Creative Work",
     "url": "https://lu.ma/fy6kgxb8",
@@ -88,6 +36,19 @@
     "themes": [],
     "prize": "",
     "organization": "Equals",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tacos+Tech",
+    "url": "https://www.meetup.com/dataphx/events/316925594/",
+    "location": "Tempe, AZ",
+    "dates": "Nov 09, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-09 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DATAPHX",
     "curated": false
   },
   {
@@ -104,19 +65,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Developing for iPhone Duo and Rethinking the Testing Pyramid in the Age of AI",
-    "url": "https://www.meetup.com/swift-language/events/313452932/",
-    "location": "San Francisco, CA",
-    "dates": "Nov 12, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-12 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Swift Language User Group x Cocoaheads | SF & Silicon Valley",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "\ud83c\uddf3\ud83c\uddf1 Supercharging Your Team with AI: Force Multiplier vs. Replacement | Product People x Miro",
     "url": "https://lu.ma/ayyktd98",
@@ -127,6 +75,19 @@
     "themes": [],
     "prize": "",
     "organization": "Product People",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI, Engineering, Getting Things to Market",
+    "url": "https://www.meetup.com/azemergingtech/events/315041455/",
+    "location": "Scottsdale, AZ",
+    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-19 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Arizona AI & Emerging Technology",
     "curated": false
   },
   {
