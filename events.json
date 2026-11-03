@@ -13,6 +13,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Tech Tuesday \u2013 Happy Hour #23",
+    "url": "https://www.meetup.com/aztechtuesday/events/317246621/",
+    "location": "Tempe, AZ",
+    "dates": "Nov 03, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-03 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AZ Tech Tuesday",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Amsterdam | Supabase \u00d7 Claude Community Meetup",
+    "url": "https://lu.ma/supabase-lvcl",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Nov 05, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-11-05 09:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Supabase Community Events",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Design Your Own Dessert",
     "url": "https://lu.ma/mdkclqeh",
