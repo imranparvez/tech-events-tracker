@@ -1,28 +1,28 @@
 [
   {
     "source": "Meetup",
-    "title": "Architecting an AI Agency's Company Knowledge Base",
-    "url": "https://www.meetup.com/cracked-claude-cowork-and-codex-club/events/317198583/",
-    "location": "Phoenix, AZ",
-    "dates": "Nov 03, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-03 17:30:00",
+    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
+    "url": "https://www.meetup.com/ac-phx/events/316871306/",
+    "location": "Online",
+    "dates": "Nov 04, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-11-04 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Cracked Claude Cowork and Codex Club (AI Networking)",
+    "organization": "Analytics.Club Phoenix",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "Tech Tuesday \u2013 Happy Hour #23",
-    "url": "https://www.meetup.com/aztechtuesday/events/317246621/",
-    "location": "Tempe, AZ",
-    "dates": "Nov 03, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-03 17:30:00",
+    "title": "Adventures in Local AI - Run Your Own Local LLM & Save on AI Costs!",
+    "url": "https://www.meetup.com/indy-net-consortium/events/315044422/",
+    "location": "Online",
+    "dates": "Nov 04, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-11-04 18:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AZ Tech Tuesday",
+    "organization": "Indy .NET Consortium",
     "curated": false
   },
   {
@@ -62,19 +62,6 @@
     "themes": [],
     "prize": "",
     "organization": "Equals",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Tacos+Tech",
-    "url": "https://www.meetup.com/dataphx/events/316925594/",
-    "location": "Tempe, AZ",
-    "dates": "Nov 09, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-09 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "DATAPHX",
     "curated": false
   },
   {
