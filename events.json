@@ -1,54 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "url": "https://www.meetup.com/ac-phx/events/316871306/",
+    "title": "Building Trusted AI: Data Consistency, Governance & Information Quality",
+    "url": "https://www.meetup.com/acm-ieee-twin-cities/events/317068660/",
     "location": "Online",
-    "dates": "Nov 04, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-11-04 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics.Club Phoenix",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Adventures in Local AI - Run Your Own Local LLM & Save on AI Costs!",
-    "url": "https://www.meetup.com/indy-net-consortium/events/315044422/",
-    "location": "Online",
-    "dates": "Nov 04, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-11-04 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Indy .NET Consortium",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Amsterdam | Supabase \u00d7 Claude Community Meetup",
-    "url": "https://lu.ma/supabase-lvcl",
-    "location": "Amsterdam, Netherlands",
-    "dates": "Nov 05, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-11-05 09:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Supabase Community Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Design Your Own Dessert",
-    "url": "https://lu.ma/mdkclqeh",
-    "location": "Amsterdam, Netherlands",
-    "dates": "Nov 05, 2026 \u00b7 7:00 PM",
+    "dates": "Nov 05, 2026 \u00b7 6:00 PM",
     "sort_date": "2026-11-05 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Personal",
+    "organization": "ACM-IEEE Twin Cities",
     "curated": false
   },
   {
@@ -62,6 +23,19 @@
     "themes": [],
     "prize": "",
     "organization": "Equals",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Claude 103: Agents, Integrations, and Advanced Workflows",
+    "url": "https://www.meetup.com/nashuaug/events/316453124/",
+    "location": "Online",
+    "dates": "Nov 11, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-11 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Nashua CLOUD .NET User Group",
     "curated": false
   },
   {
@@ -92,15 +66,15 @@
   },
   {
     "source": "Meetup",
-    "title": "AI, Engineering, Getting Things to Market",
-    "url": "https://www.meetup.com/azemergingtech/events/315041455/",
-    "location": "Scottsdale, AZ",
-    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-19 18:00:00",
+    "title": "DSM AI Group Monthly Meeting (Speaker TBD)",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316699314/",
+    "location": "Des Moines, IA",
+    "dates": "Nov 17, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-17 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Arizona AI & Emerging Technology",
+    "organization": "Des Moines Artificial Intelligence Group",
     "curated": false
   },
   {
