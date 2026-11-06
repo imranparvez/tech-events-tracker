@@ -1,18 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "Building Trusted AI: Data Consistency, Governance & Information Quality",
-    "url": "https://www.meetup.com/acm-ieee-twin-cities/events/317068660/",
-    "location": "Online",
-    "dates": "Nov 05, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-05 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "ACM-IEEE Twin Cities",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "AI Morning: AI for Marketing, Communication & Creative Work",
     "url": "https://lu.ma/fy6kgxb8",
@@ -27,6 +14,19 @@
   },
   {
     "source": "Meetup",
+    "title": "Civic Action Night at Tech Square ATL (TSQATL) Social Club",
+    "url": "https://www.meetup.com/civictechatlanta/events/313899238/",
+    "location": "Atlanta, GA",
+    "dates": "Nov 09, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-09 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Civic Tech Atlanta",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "Claude 103: Agents, Integrations, and Advanced Workflows",
     "url": "https://www.meetup.com/nashuaug/events/316453124/",
     "location": "Online",
@@ -36,6 +36,19 @@
     "themes": [],
     "prize": "",
     "organization": "Nashua CLOUD .NET User Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Delta Airlines - AI in Action",
+    "url": "https://www.meetup.com/georgia-ai-alliance-meetup-group/events/317012340/",
+    "location": "",
+    "dates": "Nov 12, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-11-12 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Georgia AI Alliance Meetup",
     "curated": false
   },
   {
@@ -66,15 +79,15 @@
   },
   {
     "source": "Meetup",
-    "title": "DSM AI Group Monthly Meeting (Speaker TBD)",
-    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316699314/",
-    "location": "Des Moines, IA",
-    "dates": "Nov 17, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-17 17:30:00",
+    "title": "Find a Startup to Help or Join",
+    "url": "https://www.meetup.com/projects-for-developers-cs-majors-and-ux-designers/events/316031998/",
+    "location": "Atlanta, GA",
+    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-19 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Des Moines Artificial Intelligence Group",
+    "organization": "Projects for Developers and UX Designers",
     "curated": false
   },
   {
