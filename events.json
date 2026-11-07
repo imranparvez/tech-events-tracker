@@ -14,41 +14,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Civic Action Night at Tech Square ATL (TSQATL) Social Club",
-    "url": "https://www.meetup.com/civictechatlanta/events/313899238/",
-    "location": "Atlanta, GA",
-    "dates": "Nov 09, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-11-09 19:00:00",
+    "title": "Tacos+Tech",
+    "url": "https://www.meetup.com/dataphx/events/316925594/",
+    "location": "Tempe, AZ",
+    "dates": "Nov 09, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-09 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Civic Tech Atlanta",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Claude 103: Agents, Integrations, and Advanced Workflows",
-    "url": "https://www.meetup.com/nashuaug/events/316453124/",
-    "location": "Online",
-    "dates": "Nov 11, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-11 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Nashua CLOUD .NET User Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Delta Airlines - AI in Action",
-    "url": "https://www.meetup.com/georgia-ai-alliance-meetup-group/events/317012340/",
-    "location": "",
-    "dates": "Nov 12, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-11-12 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Georgia AI Alliance Meetup",
+    "organization": "DATAPHX",
     "curated": false
   },
   {
@@ -62,6 +36,19 @@
     "themes": [],
     "prize": "",
     "organization": "AI House Amsterdam Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Pollack Cinema - AI Film 3 showcase event",
+    "url": "https://www.meetup.com/aicollective/events/317121830/",
+    "location": "Tempe, AZ",
+    "dates": "Nov 12, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-12 18:00:32",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Technology, Film, Art, and Music Meetup Group",
     "curated": false
   },
   {
@@ -79,15 +66,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Find a Startup to Help or Join",
-    "url": "https://www.meetup.com/projects-for-developers-cs-majors-and-ux-designers/events/316031998/",
-    "location": "Atlanta, GA",
+    "title": "AI, Engineering, Getting Things to Market",
+    "url": "https://www.meetup.com/azemergingtech/events/315041455/",
+    "location": "Scottsdale, AZ",
     "dates": "Nov 19, 2026 \u00b7 6:00 PM",
     "sort_date": "2026-11-19 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Projects for Developers and UX Designers",
+    "organization": "Arizona AI & Emerging Technology",
     "curated": false
   },
   {
