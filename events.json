@@ -14,15 +14,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Tacos+Tech",
-    "url": "https://www.meetup.com/dataphx/events/316925594/",
-    "location": "Tempe, AZ",
-    "dates": "Nov 09, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-09 18:00:00",
+    "title": "Claude 103: Agents, Integrations, and Advanced Workflows",
+    "url": "https://www.meetup.com/nashuaug/events/316453124/",
+    "location": "Online",
+    "dates": "Nov 11, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-11 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "DATAPHX",
+    "organization": "Nashua CLOUD .NET User Group",
     "curated": false
   },
   {
@@ -36,19 +36,6 @@
     "themes": [],
     "prize": "",
     "organization": "AI House Amsterdam Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Pollack Cinema - AI Film 3 showcase event",
-    "url": "https://www.meetup.com/aicollective/events/317121830/",
-    "location": "Tempe, AZ",
-    "dates": "Nov 12, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-12 18:00:32",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Technology, Film, Art, and Music Meetup Group",
     "curated": false
   },
   {
@@ -66,15 +53,28 @@
   },
   {
     "source": "Meetup",
-    "title": "AI, Engineering, Getting Things to Market",
-    "url": "https://www.meetup.com/azemergingtech/events/315041455/",
-    "location": "Scottsdale, AZ",
-    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-19 18:00:00",
+    "title": "Computer Networking for AI Introduction",
+    "url": "https://www.meetup.com/eli-the-computer-guy/events/317242187/",
+    "location": "Online",
+    "dates": "Nov 13, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-11-13 15:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Arizona AI & Emerging Technology",
+    "organization": "Eli the Computer Guy",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "DSM AI Group Monthly Meeting (Speaker TBD)",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316699314/",
+    "location": "Des Moines, IA",
+    "dates": "Nov 17, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-17 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Artificial Intelligence Group",
     "curated": false
   },
   {
