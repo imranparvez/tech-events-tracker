@@ -1,28 +1,15 @@
 [
   {
-    "source": "Luma",
-    "title": "\ud83c\uddf3\ud83c\uddf1 Supercharging Your Team with AI: Force Multiplier vs. Replacement | Product People x Miro",
-    "url": "https://lu.ma/ayyktd98",
-    "location": "Amsterdam, Netherlands",
-    "dates": "Nov 13, 2026 \u00b7 9:30 AM",
-    "sort_date": "2026-11-13 08:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Product People",
-    "curated": false
-  },
-  {
     "source": "Meetup",
-    "title": "Computer Networking for AI Introduction",
-    "url": "https://www.meetup.com/eli-the-computer-guy/events/317242187/",
+    "title": "AIConnect: Global Virtual Job & Career Networking Event for AI Specialists",
+    "url": "https://www.meetup.com/ac-yyz/events/316480684/",
     "location": "Online",
-    "dates": "Nov 13, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-11-13 15:00:00",
+    "dates": "Nov 13, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-11-13 17:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Eli the Computer Guy",
+    "organization": "Toronto Analytics.Club: Data & AI Community, Connect. Grow.",
     "curated": false
   },
   {
@@ -154,6 +141,19 @@
     "prize": "",
     "organization": "Hackers & Founders Amsterdam",
     "curated": true
+  },
+  {
+    "source": "Luma",
+    "title": "Future of Finance Day",
+    "url": "https://lu.ma/0c5xpsjx",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Dec 08, 2026 \u00b7 3:30 PM",
+    "sort_date": "2026-12-08 14:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Techstars ABN AMRO Future of Finance",
+    "curated": false
   },
   {
     "source": "Luma",
