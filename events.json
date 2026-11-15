@@ -1,41 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "San Diego Tech Coffee Online",
-    "url": "https://www.meetup.com/sandiego-tech-coffee/events/317176854/",
-    "location": "Online",
-    "dates": "Nov 17, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-11-17 09:00:00",
+    "title": "Tech Tuesday Happy Hour #25",
+    "url": "https://www.meetup.com/aztechtuesday/events/317414251/",
+    "location": "Scottsdale, AZ",
+    "dates": "Nov 17, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-17 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "San Diego Tech Coffee",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Ask Aaron Anything! Your AI Questions Answered",
-    "url": "https://www.meetup.com/old-pueblo-new-economy-artificial-intelligence-trailblazers/events/313466703/",
-    "location": "Online",
-    "dates": "Nov 17, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-11-17 14:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Artificial Intelligence Trailblazers",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Doing More with Limited Resources: Prioritizing Public Sector AI Projects",
-    "url": "https://www.meetup.com/texas-information-technology-meetup-group/events/317255939/",
-    "location": "Online",
-    "dates": "Nov 18, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-11-18 09:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Texas Information Technology Meetup Group",
+    "organization": "AZ Tech Tuesday",
     "curated": false
   },
   {
@@ -49,6 +23,19 @@
     "themes": [],
     "prize": "",
     "organization": "Texas Information Technology Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI, Engineering, Getting Things to Market",
+    "url": "https://www.meetup.com/azemergingtech/events/315041455/",
+    "location": "Scottsdale, AZ",
+    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-19 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Arizona AI & Emerging Technology",
     "curated": false
   },
   {
@@ -88,19 +75,6 @@
     "themes": [],
     "prize": "",
     "organization": "Equals",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI for Developers: Productivity, Building, and Dev Setup",
-    "url": "https://www.meetup.com/the-ubuntu-techhive-north-america/events/316847250/",
-    "location": "Online",
-    "dates": "Nov 28, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-11-28 10:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Ubuntu TechHive North America",
     "curated": false
   },
   {
@@ -153,6 +127,84 @@
     "themes": [],
     "prize": "",
     "organization": "Techstars ABN AMRO Future of Finance",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Zero to 100k followers in 90 days: Google Flow AI Video Hacks ft. Ryan Watrous",
+    "url": "https://www.meetup.com/cracked-claude-cowork-and-codex-club/events/317217317/",
+    "location": "Phoenix, AZ",
+    "dates": "Dec 08, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-12-08 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Cracked Claude Cowork and Codex Club (AI Networking)",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "FDE Amsterdam \u2014 Making Real Browser Workflows Agent-Ready",
+    "url": "https://lu.ma/bnxfw9xb",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Dec 09, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-09 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Webfuse",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Claude Code Build Night: Build the MVP",
+    "url": "https://www.meetup.com/shipai/events/317432282/",
+    "location": "Phoenix, AZ",
+    "dates": "Dec 09, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-12-09 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Ship AI",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Phoenix Tech Holiday Networking \u2013 2-Year Anniversary Celebration!",
+    "url": "https://www.meetup.com/phoenix-tech-group/events/317305723/",
+    "location": "Scottsdale, AZ",
+    "dates": "Dec 09, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-12-09 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Phoenix Tech Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tacos+Tech",
+    "url": "https://www.meetup.com/dataphx/events/317017146/",
+    "location": "Tempe, AZ",
+    "dates": "Dec 14, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-14 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DATAPHX",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "No Hype: AI Business Transformation",
+    "url": "https://www.meetup.com/old-pueblo-new-economy-artificial-intelligence-trailblazers/events/316181540/",
+    "location": "Phoenix, AZ",
+    "dates": "Dec 15, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-12-15 09:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Artificial Intelligence Trailblazers",
     "curated": false
   },
   {
