@@ -1,28 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Copilot, Microsoft 365 & Power Platform product updates call",
-    "url": "https://www.meetup.com/global-microsoft-365-dev-meetup/events/317496185/",
+    "title": "Leveraging AI For a Better Job Search",
+    "url": "https://www.meetup.com/ai-for-a-better-world-postpossible/events/317171017/",
     "location": "Online",
-    "dates": "Nov 24, 2026 \u00b7 8:00 AM",
-    "sort_date": "2026-11-24 08:00:00",
+    "dates": "Nov 24, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-24 19:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Global Copilot, Microsoft 365 & Power Platform Meetup",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Discussion - Topic: Beyond Coding: What Else Can AI Models Really Do?",
-    "url": "https://www.meetup.com/lajugstudygroup/events/317446240/",
-    "location": "Online",
-    "dates": "Nov 24, 2026 \u00b7 7:30 PM",
-    "sort_date": "2026-11-24 19:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "DevTalk LA",
+    "organization": "AI For A Better World - PostPossible",
     "curated": false
   },
   {
@@ -65,6 +52,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI for Developers: Productivity, Building, and Dev Setup",
+    "url": "https://www.meetup.com/the-ubuntu-techhive-north-america/events/316847250/",
+    "location": "Online",
+    "dates": "Nov 28, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-11-28 10:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Ubuntu TechHive North America",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "AI for Personal Health and Well-being: Open Mic Edition",
     "url": "https://lu.ma/ai-for-personal-health",
@@ -79,28 +79,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Discussion - Will Software Engineers Still Write Code in 2027?",
-    "url": "https://www.meetup.com/lajugstudygroup/events/317446310/",
+    "title": "Claude Cowork: What AI Agent Skills Are + How to Customize Them",
+    "url": "https://www.meetup.com/above-the-model/events/316684583/",
     "location": "Online",
-    "dates": "Dec 01, 2026 \u00b7 7:30 PM",
-    "sort_date": "2026-12-01 19:30:00",
+    "dates": "Dec 01, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-01 19:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "DevTalk LA",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "url": "https://www.meetup.com/ac-sea/events/317404367/",
-    "location": "Online",
-    "dates": "Dec 02, 2026 \u00b7 4:02 PM",
-    "sort_date": "2026-12-02 16:02:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics.Club Seattle: Data & AI Community, Connect. Grow.",
+    "organization": "Above the Model",
     "curated": false
   },
   {
@@ -115,6 +102,19 @@
     "prize": "",
     "organization": "The Stack",
     "curated": true
+  },
+  {
+    "source": "Meetup",
+    "title": "Create short videos with an AI twin",
+    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315809684/",
+    "location": "Online",
+    "dates": "Dec 03, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-12-03 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI + Marketing Meetup Group",
+    "curated": false
   },
   {
     "source": "Luma",
@@ -166,6 +166,32 @@
     "themes": [],
     "prize": "",
     "organization": "Webfuse",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Amsterdam | Claude Community \"Year in Review\"",
+    "url": "https://lu.ma/claude-x37l",
+    "location": "Amsterdam, Netherlands",
+    "dates": "Dec 09, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-09 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Claude Community Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Let's talk AI",
+    "url": "https://www.meetup.com/machine-learning-workshop/events/316287417/",
+    "location": "Online",
+    "dates": "Dec 19, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-12-19 14:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Office Hours",
     "curated": false
   },
   {
