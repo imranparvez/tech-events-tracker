@@ -1,15 +1,555 @@
 [
   {
     "source": "Meetup",
-    "title": "Leveraging AI For a Better Job Search",
-    "url": "https://www.meetup.com/ai-for-a-better-world-postpossible/events/317171017/",
-    "location": "Online",
-    "dates": "Nov 24, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-11-24 19:00:00",
+    "title": "BitDevs: Portland Bitcoin Developers (4th Tuesdays)",
+    "url": "https://www.meetup.com/portland-bitcoin-group/events/317294313/",
+    "location": "",
+    "dates": "Nov 24, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-11-24 18:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI For A Better World - PostPossible",
+    "organization": "Portland Bitcoin Group",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "[School of Tech]: Data Warehousing Masterclass + Official Certificate \u20ac249",
+    "url": "https://www.eventbrite.nl/e/school-of-tech-data-warehousing-masterclass-official-certificate-249-tickets-1999694946415",
+    "location": "Amsterdam, Paasheuvelweg 20",
+    "dates": "Nov 24, 2026 \u00b7 7:30 PM",
+    "sort_date": "2026-11-24 19:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "datawarehousing"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Internet of Things Data + Official Certificate (14-Day BootCamp - \u20ac249 All",
+    "url": "https://www.eventbrite.nl/e/internet-of-things-data-official-certificate-14-day-bootcamp-249-all-tickets-1999754968944",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 24, 2026 \u00b7 9:30 PM",
+    "sort_date": "2026-11-24 21:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "iotcertification"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Data Visualization  [MR-DATA.NL] + Official Certificate",
+    "url": "https://www.eventbrite.nl/e/data-visualization-mr-datanl-official-certificate-tickets-2005070207967",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 7:00 AM",
+    "sort_date": "2026-11-25 07:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "data_visualization"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "[School of Tech] Big Data & Privacy GDPR + Official Certificate (14-Days)",
+    "url": "https://www.eventbrite.nl/e/school-of-tech-big-data-privacy-gdpr-official-certificate-14-days-tickets-1999755486492",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-11-25 09:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "gdpr_certificate"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Become Business Analyst + Official Certificate (14-Day BootCamp - \u20ac249 All-",
+    "url": "https://www.eventbrite.nl/e/become-business-analyst-official-certificate-14-day-bootcamp-249-all--tickets-2001763028103",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-11-25 09:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Businessanalyst"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Business Intelligence Strategy + Official Certificate (14-Day BootCamp",
+    "url": "https://www.eventbrite.nl/e/business-intelligence-strategy-official-certificate-14-day-bootcamp-tickets-2001585173134",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-11-25 09:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Businessintelligence"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "ERP for Beginners + Official Certificate (14-Day BootCamp - \u20ac249 All-In)",
+    "url": "https://www.eventbrite.nl/e/erp-for-beginners-official-certificate-14-day-bootcamp-249-all-in-tickets-2001509836801",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-11-25 09:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "officialcertificate"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "[School of Tech] Sollicitatie Training Naar Werk + Official Certification",
+    "url": "https://www.eventbrite.nl/e/school-of-tech-sollicitatie-training-naar-werk-official-certification-tickets-1999757078253",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-11-25 13:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Jobapplication"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Performance Management + Official Certificate (14-Day BootCamp - \u20ac249 All",
+    "url": "https://www.eventbrite.nl/e/performance-management-official-certificate-14-day-bootcamp-249-all-tickets-2001518429502",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-11-25 13:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Careeradvancement"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Scrum Methodology for Data Pros + Official Certificate (14-Day BootCamp)",
+    "url": "https://www.eventbrite.nl/e/scrum-methodology-for-data-pros-official-certificate-14-day-bootcamp-tickets-2001764487468",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-11-25 13:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "scrumfor_datapros"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Big Data & Privacy GDPR + Official Certificate (14-Day BootCamp - \u20ac249 All",
+    "url": "https://www.eventbrite.nl/e/big-data-privacy-gdpr-official-certificate-14-day-bootcamp-249-all-tickets-2001765843524",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-11-25 14:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Dataprotection"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Performance Management  [MR-DATA.NL] + Official Certificate",
+    "url": "https://www.eventbrite.nl/e/performance-management-mr-datanl-official-certificate-tickets-2005030115048",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-11-25 14:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Class, Training, or Workshop",
+      "performance_management"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Data Visualization Training + Official Certificate (14-Day BootCamp - \u20ac249",
+    "url": "https://www.eventbrite.nl/e/data-visualization-training-official-certificate-14-day-bootcamp-249-tickets-1999697918304",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-11-25 15:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Datavisualization"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Scrum Methodology & Data Pros + Official Certificate 14-Day Boot Camp",
+    "url": "https://www.eventbrite.nl/e/scrum-methodology-data-pros-official-certificate-14-day-boot-camp-tickets-1999749833584",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-11-25 15:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Agileprojectmanagement"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Data Warehousing [MR-DATA.NL] + Official Certificate",
+    "url": "https://www.eventbrite.nl/e/data-warehousing-mr-datanl-official-certificate-tickets-2005042407816",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-11-25 16:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "datawarehousing"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Data Warehousing Masterclass + Official Certificate (14-Day BootCamp - \u20ac249",
+    "url": "https://www.eventbrite.nl/e/data-warehousing-masterclass-official-certificate-14-day-bootcamp-249-tickets-2001578458049",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-11-25 17:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "data_warehousing"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "BICC Enterprise Training + Official Certificate (14-Day BootCamp - \u20ac249 All",
+    "url": "https://www.eventbrite.nl/e/bicc-enterprise-training-official-certificate-14-day-bootcamp-249-all-tickets-2001764103319",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-25 17:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "enterprise_skills"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI chat bot for beginners [MR-DATA.NL] + Official Certificate",
+    "url": "https://www.eventbrite.nl/e/ai-chat-bot-for-beginners-mr-datanl-official-certificate-tickets-2005075723464",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "beginneraicourse"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Education office Tech+Jobs Module: Business Analyst BY>TECHRABOTA.BG",
+    "url": "https://www.eventbrite.com/e/ai-education-office-techjobs-module-business-analyst-bytechrabotabg-tickets-1991414303790",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Educators",
+      "Business & Professional",
+      "Festival or Fair",
+      "saptraining"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Education office Tech+Jobs Module:BI STRATEGY BY>TECHRABOTA.BG",
+    "url": "https://www.eventbrite.com/e/ai-education-office-techjobs-modulebi-strategy-bytechrabotabg-tickets-1991412947734",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Educators",
+      "Business & Professional",
+      "Festival or Fair",
+      "saptraining"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Education office Tech+Jobs Module:Business Intelligence BY-TECHRABOTA.BG",
+    "url": "https://www.eventbrite.com/e/ai-education-office-techjobs-modulebusiness-intelligence-by-techrabotabg-tickets-1991418536450",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Educators",
+      "Business & Professional",
+      "Festival or Fair",
+      "Businessintelligence"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Education office Tech+Jobs Module:Data Visualization BY-TECHRABOTA.BG",
+    "url": "https://www.eventbrite.com/e/ai-education-office-techjobs-moduledata-visualization-by-techrabotabg-tickets-1991415817317",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Educators",
+      "Business & Professional",
+      "Festival or Fair",
+      "saptraining"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Education office Tech+Jobs Module:Scrum for beginners BY-TECHRABOTA.BG",
+    "url": "https://www.eventbrite.com/e/ai-education-office-techjobs-modulescrum-for-beginners-by-techrabotabg-tickets-1991417638765",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Educators",
+      "Business & Professional",
+      "Festival or Fair",
+      "saptraining"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Business Intelligence Competency Center + Official Certificat  [MR-DATA.NL]",
+    "url": "https://www.eventbrite.nl/e/business-intelligence-competency-center-official-certificat-mr-datanl-tickets-2004130732972",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Businessintelligence"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Business Intelligence Strateg + Official Certificate  [MR-DATA.NL]",
+    "url": "https://www.eventbrite.nl/e/business-intelligence-strateg-official-certificate-mr-datanl-tickets-2004126860389",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Businessintelligence"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Business Intelligence Tool + Official Certificate (14-Day BootCamp - \u20ac249)",
+    "url": "https://www.eventbrite.nl/e/business-intelligence-tool-official-certificate-14-day-bootcamp-249-tickets-2004125954680",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Businessintelligence"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Business Intelligence Tools  [MR-DATA.NL] + Official Certificate",
+    "url": "https://www.eventbrite.nl/e/business-intelligence-tools-mr-datanl-official-certificate-tickets-2005040398807",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Class, Training, or Workshop",
+      "Businessintelligence"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Business Intelligence Tools + Official Certificate (14-Day BootCamp - \u20ac249",
+    "url": "https://www.eventbrite.nl/e/business-intelligence-tools-official-certificate-14-day-bootcamp-249-tickets-2001574818162",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Businessintelligence"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "[School of Tech]SEO / SEA Web Analytics + Official Certificate (14-Days)",
+    "url": "https://www.eventbrite.nl/e/school-of-techseo-sea-web-analytics-official-certificate-14-days-tickets-1999753519609",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 7:30 PM",
+    "sort_date": "2026-11-25 19:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "seo_sea_training"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Big Data & Recht Training + Official Certificate (14-Day BootCamp - \u20ac249",
+    "url": "https://www.eventbrite.nl/e/big-data-recht-training-official-certificate-14-day-bootcamp-249-tickets-1999756370135",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 25, 2026 \u00b7 7:30 PM",
+    "sort_date": "2026-11-25 19:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "trainingbootcamp"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
@@ -26,6 +566,42 @@
     "curated": true
   },
   {
+    "source": "Eventbrite",
+    "title": "Business Talks over Italian Bites & Scroppino",
+    "url": "https://www.eventbrite.nl/e/tickets-business-talks-over-italian-bites-scroppino-1998942838841",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 26, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-11-26 12:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "The Agentic AI Forum: Making AI Work Across the Organisation",
+    "url": "https://www.eventbrite.com/e/the-agentic-ai-forum-making-ai-work-across-the-organisation-tickets-2004442028064",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 26, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-26 17:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Conference",
+      "Ai"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "International Tech Drinks",
     "url": "https://lu.ma/4ljf46g7",
@@ -36,6 +612,24 @@
     "themes": [],
     "prize": "",
     "organization": "Capital C Amsterdam",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Almere TechConnect. Business Networking #12. All in yellow party",
+    "url": "https://www.eventbrite.nl/e/almere-techconnect-business-networking-12-all-in-yellow-party-tickets-1987751934545",
+    "location": "Almere, FL",
+    "dates": "Nov 27, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-27 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "friday_night_drinks"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
@@ -52,16 +646,88 @@
     "curated": false
   },
   {
+    "source": "Eventbrite",
+    "title": "Dinner with Entrepreneurs | Amsterdam",
+    "url": "https://www.eventbrite.com/e/dinner-with-entrepreneurs-amsterdam-tickets-1859074474799",
+    "location": "Amsterdam, NH",
+    "dates": "Nov 29, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-29 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
     "source": "Meetup",
-    "title": "AI for Developers: Productivity, Building, and Dev Setup",
-    "url": "https://www.meetup.com/the-ubuntu-techhive-north-america/events/316847250/",
+    "title": "The Future of IT: AI, Automation & Intelligent Networking | Free Webinar",
+    "url": "https://www.meetup.com/seattle-business-and-technology-meetup-group/events/317360033/",
     "location": "Online",
-    "dates": "Nov 28, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-11-28 10:30:00",
+    "dates": "Nov 30, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-11-30 09:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "The Ubuntu TechHive North America",
+    "organization": "Seattle Business and Technology Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Lifestyle Business Bootcamp 9e editie",
+    "url": "https://www.eventbrite.nl/e/tickets-lifestyle-business-bootcamp-9e-editie-1996833865846",
+    "location": "Huizen, NH",
+    "dates": "Nov 30, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-11-30 13:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Workshops"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "VCF Techcon 2026",
+    "url": "https://www.eventbrite.nl/e/vcf-techcon-2026-tickets-2003591067819",
+    "location": "Bunnik, UT",
+    "dates": "Dec 01, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-12-01 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Conference",
+      "techcon2026"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Crossing the Valley for Green Tech",
+    "url": "https://www.eventbrite.nl/e/crossing-the-valley-for-green-tech-tickets-2003198976062",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 01, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-12-01 12:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Science",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "Sustainability"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
@@ -78,16 +744,111 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Claude Cowork: What AI Agent Skills Are + How to Customize Them",
-    "url": "https://www.meetup.com/above-the-model/events/316684583/",
-    "location": "Online",
-    "dates": "Dec 01, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-12-01 19:00:00",
+    "source": "Eventbrite",
+    "title": "AI & Tech Networking Event in Amsterdam by Startup Valley",
+    "url": "https://www.eventbrite.com/e/ai-tech-networking-event-in-amsterdam-by-startup-valley-tickets-2003702939430",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 01, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-01 18:00:00",
     "state": "upcoming",
-    "themes": [],
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Career"
+    ],
     "prize": "",
-    "organization": "Above the Model",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Business Networking & Startup Pitch Night in Amsterdam",
+    "url": "https://www.eventbrite.com/e/business-networking-startup-pitch-night-in-amsterdam-tickets-2001210642904",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 01, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-01 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Career"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Investor Connect: Pitch & Networking \u2014 Amsterdam",
+    "url": "https://www.eventbrite.com/e/investor-connect-pitch-networking-amsterdam-tickets-2004940828991",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 01, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-01 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Startups & Networking Amsterdam",
+    "url": "https://www.eventbrite.com/e/startups-networking-amsterdam-tickets-2001210681018",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 01, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-01 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech & Business Networking in Amsterdam",
+    "url": "https://www.eventbrite.com/e/tech-business-networking-in-amsterdam-tickets-2001209672000",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 01, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-01 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Networking Event by Startup Valley in Amsterdam",
+    "url": "https://www.eventbrite.com/e/tech-networking-event-by-startup-valley-in-amsterdam-tickets-2001210697066",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 01, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-01 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Career"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
@@ -130,6 +891,109 @@
     "curated": true
   },
   {
+    "source": "Eventbrite",
+    "title": "House of Founders Marokko | Editie #2 | Meet-up & Premi\u00e8re",
+    "url": "https://www.eventbrite.nl/e/house-of-founders-marokko-editie-2-meet-up-premiere-tickets-2003262029657",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 03, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-03 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Startupcommunity"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Build an AI-Powered Job Search with n8n",
+    "url": "https://www.meetup.com/portland-n8n-meetup-group/events/317401784/",
+    "location": "Online",
+    "dates": "Dec 03, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-03 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Portland n8n & AI Automation Meetup",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Product Owner - AI Essentials (PSPO-AIE). A Scrum.org Certified Training.",
+    "url": "https://www.eventbrite.nl/e/product-owner-ai-essentials-pspo-aie-a-scrumorg-certified-training-tickets-1982963828190",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 04, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-12-04 09:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Other",
+      "Business & Professional",
+      "Class, Training, or Workshop",
+      "Agile"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "LIVE Workshop: Pricing Creativity",
+    "url": "https://www.eventbrite.com/e/live-workshop-pricing-creativity-tickets-1994300789346",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 06, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-12-06 11:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Media",
+      "Business & Professional",
+      "Conference",
+      "Designers"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Certified Training | Professional Scrum Product Owner (PSPO)",
+    "url": "https://www.eventbrite.nl/e/certified-training-professional-scrum-product-owner-pspo-tickets-1982962219378",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 07, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-12-07 09:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Class, Training, or Workshop",
+      "Scrum"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Product Owner - AI Advanced (PSPO-AIA) | A Scrum.org Certified Training.",
+    "url": "https://www.eventbrite.nl/e/product-owner-ai-advanced-pspo-aia-a-scrumorg-certified-training-tickets-1993546482193",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 07, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-12-07 09:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Other",
+      "Business & Professional",
+      "Class, Training, or Workshop",
+      "Agile"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Future of Finance Day",
     "url": "https://lu.ma/0c5xpsjx",
@@ -140,6 +1004,24 @@
     "themes": [],
     "prize": "",
     "organization": "Techstars ABN AMRO Future of Finance",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Starting and Managing a Business in the Netherlands",
+    "url": "https://www.eventbrite.nl/e/starting-and-managing-a-business-in-the-netherlands-tickets-2004416847749",
+    "location": "Almere, FL",
+    "dates": "Dec 08, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-12-08 18:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Class, Training, or Workshop",
+      "startupguide"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
@@ -170,15 +1052,382 @@
   },
   {
     "source": "Meetup",
-    "title": "Let's talk AI",
-    "url": "https://www.meetup.com/machine-learning-workshop/events/316287417/",
-    "location": "Online",
-    "dates": "Dec 19, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-12-19 14:00:00",
+    "title": "Crash-Only Software",
+    "url": "https://www.meetup.com/papers-we-love-pdx/events/317350863/",
+    "location": "Portland, OR",
+    "dates": "Dec 09, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-09 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Office Hours",
+    "organization": "Papers We Love PDX",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Business Lunch Park Cafe - lets network",
+    "url": "https://www.eventbrite.nl/e/business-lunch-park-cafe-lets-network-tickets-2002390933184",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 10, 2026 \u00b7 11:30 AM",
+    "sort_date": "2026-12-10 11:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Moldova and the Netherlands: Business Opportunities in an Enlarging Europe",
+    "url": "https://www.eventbrite.ie/e/moldova-and-the-netherlands-business-opportunities-in-an-enlarging-europe-tickets-2002289336305",
+    "location": "Hoofddorp, NH",
+    "dates": "Dec 10, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-12-10 17:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Conference",
+      "market_expansion"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Play pool. Talk tech",
+    "url": "https://www.meetup.com/tech-talent-pool/events/317052969/",
+    "location": "Portland, OR",
+    "dates": "Dec 10, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-12-10 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Tech talent pool",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Swell Connect - Year End Celebration!",
+    "url": "https://www.eventbrite.com/e/swell-connect-year-end-celebration-tickets-2004450583654",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 13, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-12-13 15:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Inspiration"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Certified Training | Professional Scrum Product Owner - Advanced (PSPO-A)",
+    "url": "https://www.eventbrite.nl/e/certified-training-professional-scrum-product-owner-advanced-pspo-a-tickets-1982962993694",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 14, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-12-14 09:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Class, Training, or Workshop"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Creating and publishing cloud-native geospatial data",
+    "url": "https://www.eventbrite.nl/e/creating-and-publishing-cloud-native-geospatial-data-tickets-2004838684474",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 14, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-12-14 09:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Cloudnative"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Golden Circle netwerk Event MASTERS EXPO",
+    "url": "https://www.eventbrite.nl/e/golden-circle-netwerk-event-masters-expo-tickets-2003310596923",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 14, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-12-14 11:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Golden Circle network Event MASTERS EXPO (English)",
+    "url": "https://www.eventbrite.nl/e/golden-circle-network-event-masters-expo-english-tickets-2003262669571",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 14, 2026 \u00b7 2:30 PM",
+    "sort_date": "2026-12-14 14:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI & Tech Networking Event in Amsterdam  by Ascent Valley",
+    "url": "https://www.eventbrite.com/e/ai-tech-networking-event-in-amsterdam-by-ascent-valley-tickets-2004808115040",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 15, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-15 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Startup & Business Networking in Amsterdam",
+    "url": "https://www.eventbrite.com/e/startup-business-networking-in-amsterdam-tickets-2004808108019",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 15, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-15 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Startup Tech & AI Networking in Amsterdam",
+    "url": "https://www.eventbrite.com/e/startup-tech-ai-networking-in-amsterdam-tickets-2004808111028",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 15, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-15 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI TECH Startup Pitch & Investor Networking I Amsterdam",
+    "url": "https://www.eventbrite.com/e/ai-tech-startup-pitch-investor-networking-i-amsterdam-tickets-2004866220836",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 16, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-16 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Founders & Investors: Pitch & Connect I Amsterdam",
+    "url": "https://www.eventbrite.com/e/tech-founders-investors-pitch-connect-i-amsterdam-tickets-2004866217827",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 16, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-16 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Beers with Engineers",
+    "url": "https://www.meetup.com/pdxbwe/events/315307232/",
+    "location": "Portland, OR",
+    "dates": "Dec 17, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-12-17 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Beers with Engineers",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Out in Tech Amsterdam | Third Thursdays",
+    "url": "https://www.eventbrite.com/e/out-in-tech-amsterdam-third-thursdays-registration-1318589800589",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 17, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-17 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Other",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Technology"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Netwerk Coffee Meet Up",
+    "url": "https://www.eventbrite.nl/e/netwerk-coffee-meet-up-tickets-2003314791469",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 18, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-12-18 10:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Coffee & Art business  event - we make networking FUN",
+    "url": "https://www.eventbrite.nl/e/coffee-art-business-event-we-make-networking-fun-tickets-2003258430893",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 28, 2026 \u00b7 12:30 PM",
+    "sort_date": "2026-12-28 12:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "ROOFTOP End Year Business Lunch",
+    "url": "https://www.eventbrite.nl/e/tickets-rooftop-end-year-business-lunch-2004084948028",
+    "location": "Amsterdam, NH",
+    "dates": "Dec 30, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-12-30 12:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Netwerken"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Almere TechConnect. Friday night community drinks #14. All in yellow party",
+    "url": "https://www.eventbrite.nl/e/almere-techconnect-friday-night-community-drinks-14-all-in-yellow-party-tickets-1996997016835",
+    "location": "Almere, FL",
+    "dates": "Jan 15, 2027 \u00b7 7:00 PM",
+    "sort_date": "2027-01-15 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "friday_night_drinks"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Startup Networking Amsterdam: Founders, Investors & Talent Mixer",
+    "url": "https://www.eventbrite.com/e/startup-networking-amsterdam-founders-investors-talent-mixer-tickets-2004808914431",
+    "location": "Amsterdam, NH",
+    "dates": "Jan 19, 2027 \u00b7 6:00 PM",
+    "sort_date": "2027-01-19 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Does ChatGPT recommend your businesses?",
+    "url": "https://www.eventbrite.nl/e/does-chatgpt-recommend-your-businesses-tickets-2004882017083",
+    "location": "Almere, FL",
+    "dates": "Jan 19, 2027 \u00b7 7:00 PM",
+    "sort_date": "2027-01-19 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Localbusinesses"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
@@ -193,5 +1442,239 @@
     "prize": "",
     "organization": "The Stack",
     "curated": true
+  },
+  {
+    "source": "Eventbrite",
+    "title": "The Business Show  Amsterdam 2027",
+    "url": "https://www.eventbrite.co.uk/e/the-business-show-amsterdam-2027-tickets-1991916904081",
+    "location": "Amsterdam, NH",
+    "dates": "Feb 10, 2027 \u00b7 10:00 AM",
+    "sort_date": "2027-02-10 10:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Tradeshow, Consumer Show, or Expo",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Amsterdam AI & Testing",
+    "url": "https://www.eventbrite.co.uk/e/amsterdam-ai-testing-tickets-2004770641957",
+    "location": "Amsterdam, NH",
+    "dates": "Feb 25, 2027 \u00b7 9:00 AM",
+    "sort_date": "2027-02-25 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Conference",
+      "Testing"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Energy for Data Centres: Grid Integration and Co-location with Power Assets",
+    "url": "https://www.eventbrite.nl/e/energy-for-data-centres-grid-integration-and-co-location-with-power-assets-tickets-2002037397750",
+    "location": "Amsterdam, NH",
+    "dates": "Mar 16, 2027 \u00b7 8:30 AM",
+    "sort_date": "2027-03-16 08:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Conference",
+      "Renewableenergy"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Business Intelligence and Analytics Summit",
+    "url": "https://www.eventbrite.com/e/business-intelligence-and-analytics-summit-tickets-2000404028298",
+    "location": "Amsterdam",
+    "dates": "Mar 23, 2027 \u00b7 8:00 AM",
+    "sort_date": "2027-03-23 08:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Conference",
+      "Data"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Founder Connect [Conference]",
+    "url": "https://www.eventbrite.nl/e/tech-founder-connect-conference-tickets-1996982083168",
+    "location": "Almere, FL",
+    "dates": "Mar 26, 2027 \u00b7 3:00 PM",
+    "sort_date": "2027-03-26 15:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Other",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Almere"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Reconnect Expo Amsterdam 2027",
+    "url": "https://www.eventbrite.co.uk/e/reconnect-expo-amsterdam-2027-tickets-1987835779327",
+    "location": "Amsterdam, NH",
+    "dates": "Apr 06, 2027 \u00b7 10:00 AM",
+    "sort_date": "2027-04-06 10:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Other",
+      "Business & Professional",
+      "Tradeshow, Consumer Show, or Expo",
+      "Ai"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Amsterdam Tech COnnect",
+    "url": "https://www.eventbrite.co.uk/e/amsterdam-tech-connect-tickets-1988716542714",
+    "location": "Amsterdam, NH",
+    "dates": "Apr 15, 2027 \u00b7 6:30 PM",
+    "sort_date": "2027-04-15 18:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Conference",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Amsterdam Tech COnnect 2027",
+    "url": "https://www.eventbrite.pt/e/amsterdam-tech-connect-2027-tickets-2005274120876",
+    "location": "Amsterdam",
+    "dates": "Apr 15, 2027 \u00b7 6:30 PM",
+    "sort_date": "2027-04-15 18:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Conference",
+      "amsterdamtech2027"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Women in Tech 2027 - Amsterdam Employer Ticket",
+    "url": "https://www.eventbrite.com/e/women-in-tech-2027-amsterdam-employer-ticket-tickets-2002922886270",
+    "location": "Amsterdam",
+    "dates": "May 04, 2027 \u00b7 6:00 PM",
+    "sort_date": "2027-05-04 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Conference",
+      "Diversityintech"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "DSC Next Conference 2027 | Amsterdam, Netherlands",
+    "url": "https://www.eventbrite.ca/e/biglietti-dsc-next-conference-2027-amsterdam-netherlands-1991033638209",
+    "location": "Lijnden, NH",
+    "dates": "May 20, 2027 \u00b7 10:00 AM",
+    "sort_date": "2027-05-20 10:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Conference",
+      "Events"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Lifestyle Business  Fair & launch magazine SS27",
+    "url": "https://www.eventbrite.nl/e/tickets-lifestyle-business-fair-launch-magazine-ss27-2004515564012",
+    "location": "nederland",
+    "dates": "May 24, 2027 \u00b7 12:30 PM",
+    "sort_date": "2027-05-24 12:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "S&OP & Integrated Business Planning Summit",
+    "url": "https://www.eventbrite.com/e/sop-integrated-business-planning-summit-tickets-2005081971151",
+    "location": "Amsterdam, NH",
+    "dates": "Oct 14, 2027 \u00b7 6:30 AM",
+    "sort_date": "2027-10-14 06:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Conference",
+      "integrated_planning"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "IoT Tech Expo Europe 2027",
+    "url": "https://www.eventbrite.co.uk/e/iot-tech-expo-europe-2027-tickets-2004714782881",
+    "location": "Amsterdam, NH",
+    "dates": "Oct 19, 2027 \u00b7 8:30 AM",
+    "sort_date": "2027-10-19 08:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Science & Technology",
+      "Conference",
+      "Iot",
+      "Internetofthings"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
   }
 ]
