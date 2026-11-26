@@ -1,16 +1,16 @@
 [
   {
-    "source": "Luma",
-    "title": "The Stack Construction Tour [Invite-Only]",
-    "url": "https://lu.ma/t1ndbxmv",
-    "location": "Amsterdam, Noord-Holland",
-    "dates": "Nov 26, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-11-26 09:30:00",
+    "source": "Meetup",
+    "title": "Humans in the Loop - UX + Gen AI Conversations",
+    "url": "https://www.meetup.com/calgaryux/events/317314240/",
+    "location": "Online",
+    "dates": "Nov 26, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-11-26 17:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "The Stack",
-    "curated": true
+    "organization": "Calgary UX",
+    "curated": false
   },
   {
     "source": "Luma",
@@ -170,6 +170,19 @@
   },
   {
     "source": "Meetup",
+    "title": "AI in AZ with Julia McCoy",
+    "url": "https://www.meetup.com/ai-arizona/events/316780795/",
+    "location": "Scottsdale, AZ",
+    "dates": "Dec 11, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-12-11 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Arizona",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "No Hype: AI Business Transformation",
     "url": "https://www.meetup.com/old-pueblo-new-economy-artificial-intelligence-trailblazers/events/316181540/",
     "location": "Phoenix, AZ",
@@ -195,17 +208,17 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI Exchange Tech Talk: Durable Agentic Workflows",
-    "url": "https://www.meetup.com/shipai/events/317559683/",
-    "location": "Phoenix, AZ",
-    "dates": "Dec 16, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-12-16 17:00:00",
+    "source": "Luma",
+    "title": "The Stack Construction Tour [Invite-Only]",
+    "url": "https://lu.ma/sl5yow9w",
+    "location": "Amsterdam, Noord-Holland",
+    "dates": "Dec 17, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-12-17 09:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Ship AI",
-    "curated": false
+    "organization": "The Stack",
+    "curated": true
   },
   {
     "source": "Meetup",
