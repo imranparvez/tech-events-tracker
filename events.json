@@ -1,31 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "Humans in the Loop - UX + Gen AI Conversations",
-    "url": "https://www.meetup.com/calgaryux/events/317314240/",
-    "location": "Online",
-    "dates": "Nov 26, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-11-26 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Calgary UX",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "International Tech Drinks",
-    "url": "https://lu.ma/4ljf46g7",
-    "location": "Amsterdam, Netherlands",
-    "dates": "Nov 27, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-11-27 15:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Capital C Amsterdam",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Hackathon for Good: AI by Women, for Women",
     "url": "https://lu.ma/equals-utwi",
@@ -102,6 +76,19 @@
     "prize": "",
     "organization": "Hackers & Founders Amsterdam",
     "curated": true
+  },
+  {
+    "source": "Meetup",
+    "title": "Where is AI in 2026 and Where is it Going?",
+    "url": "https://www.meetup.com/ai-safety-awareness-group-mesa/events/317371632/",
+    "location": "Mesa, AZ",
+    "dates": "Dec 03, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-03 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Safety Awareness Group Mesa",
+    "curated": false
   },
   {
     "source": "Luma",
@@ -183,6 +170,19 @@
   },
   {
     "source": "Meetup",
+    "title": "Tacos+Tech",
+    "url": "https://www.meetup.com/dataphx/events/317017146/",
+    "location": "Tempe, AZ",
+    "dates": "Dec 14, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-14 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DATAPHX",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "No Hype: AI Business Transformation",
     "url": "https://www.meetup.com/old-pueblo-new-economy-artificial-intelligence-trailblazers/events/316181540/",
     "location": "Phoenix, AZ",
@@ -201,6 +201,19 @@
     "location": "Phoenix, AZ",
     "dates": "Dec 15, 2026 \u00b7 5:00 PM",
     "sort_date": "2026-12-15 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Ship AI",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI Exchange Tech Talk: Durable Agentic Workflows",
+    "url": "https://www.meetup.com/shipai/events/317559683/",
+    "location": "Phoenix, AZ",
+    "dates": "Dec 16, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-12-16 17:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
